@@ -1,0 +1,5098 @@
+Hello everyone, good morning, good afternoon and good evening.
+My name is Vishwati and I welcome you to the PW Gatewala channel for this course of operating system.
+First of all, do you all get my voice and my video size?
+Let's start the operating system and when it will be released, we will talk to you about it.
+Okay, so you all will meet tomorrow on our PW platform, 25th of all courses of Maharivision and Abhiaz.
+Now, in the next week, we are going to have some more exciting sessions for you.
+Especially only for computer science students, because we are really specifically doing a lot of things for CS kids.
+So that they will meet different treatments like MSQ-20 sessions.
+This is not the second branch, it is just MSQ practice.
+You will meet the English channel tomorrow.
+Then you will meet Mahabhia in the evening.
+We will meet you in the next week.
+Tomorrow, we will be going to know the sessions in the evening.
+What else we are going to do for you.
+Today is a very good day for the day of the day.
+If you are a teacher, you all are very good at it.
+Let's start.
+Please confirm to me quickly in the comment box that you are ready.
+I should see all of you in the comment box.
+Ready.
+So that we start this particular session.
+Operating system is a software, a collection of programs, which helps you to use hardware.
+It is a user or a user's program, which runs on hardware with the help of the operating system.
+The hardware of the computer system is CPU, hardware disk, all the hardware to make a connection with all the hardware.
+To talk to them, we need a software that is operating system.
+Operating system is an interface.
+It provides a lot of services, it provides an interface.
+The programs you want to execute on CPU are executed by OS.
+This is the most important task of OS.
+The OS has an input output device, which also has an OS.
+The file system has a lot of work on the disk, which is a new file, folder, or editing.
+Open it and do something.
+The OS provides OS to develop two processes.
+The OS is designed to allocate the resources, which resources will be available.
+The new process is created.
+I told you in the web that all the running processes are in the RAM.
+But who is in the RAM?
+Where to keep it?
+Who decides?
+Who decides?
+The OS decides.
+The system is allocated for the resources.
+The system is used for all the accounting, which RAM is used, which network is used, and the CPU is used.
+This is used for all the information.
+OS is maintained and the protection and security is also maintained.
+The operating system is created for the three types.
+The other two types are available in the detailed course.
+But they have a special handy in our courses.
+We will discuss this much in the course.
+Uniprogramming OS.
+Uniprogramming OS says that your operating system is so allowed that it will keep the RAM in the same process.
+This is the uniprogramming OS.
+The RAM will remain in the same program.
+When the RAM is over, the RAM will be removed from the RAM.
+The new program will be in the RAM.
+If there is only one program, then the CPU will be used.
+If the CPU is using, then all the other IO devices are free.
+If the program is used for disk use, then the CPU is free and the other IO devices are free.
+In this case, the resource utilization is used.
+Especially the CPU utilization is not good.
+The CPU is free in the middle of the CPU.
+The second program was possible to run, but we had no other program.
+The RAM was in the RAM.
+That's why the operating system was created.
+The operating system is a multi-programming operating system.
+The other program was created in the RAM.
+The other program was created to keep the other program.
+The reason is that the CPU is running on the P1.
+If the CPU is not running, then the CPU will run on the P2.
+The P1 is using the disk and the CPU is working in parallel.
+The reason is that when the P1 is running on the P2, the P2 will run on the P2.
+The reason is that the CPU can run on the P2.
+The system can run on the P2.
+The system will be better for your performance.
+This is multi-programming OS.
+I have told you about the two types of OS.
+The non-pre-emptive and the other is pre-emptive.
+When a child speaks to him, then he doesn't speak to pre-emptive.
+Pre-emptive and pre-emptive should be different.
+The other should be different.
+The other should also be different.
+What is the work of the gate exam?
+If you want to give interview by chance, then what will you do?
+Can you not eat the food?
+You can not eat the food.
+Pre-emptive and non-pre-emptive are the differences.
+If you schedule a process, then the process will be left with your own brain.
+If you leave the process with your brain, then the non-pre-emptive and non-pre-emptive is the same.
+Pre-emptive and non-pre-emptive is the same.
+Pre-emptive and non-pre-emptive is the same.
+What is the pre-emptive and non-pre-emptive programming?
+Pre-emptive is that when you leave a running process with your brain,
+if you want a CPU or if you want your operating system.
+Now, to make such a system, you will change the intrepth.
+We saw in the COM, because the intrepth will be running the CPU current running process.
+So, the current running process was stopped in between.
+Yes, on the basis of the external factor, the CPU didn't want to be run.
+The CPU didn't want to be run.
+So, to implement the pre-emptive type operating system,
+the intrepth hardware support will be applied.
+Why did you say the hardware support?
+We read in the intrepth COA, that COA is nothing but hardware design, computer design.
+Of course, if you come to the line,
+you will have to implement the pre-emptive operating system.
+Yes, it seems that.
+Because you will have to generate an intrepth,
+and the CPU will go in the current running process.
+Do you remember what I said?
+The connection of the intrepth.
+Or, do you have any connection of the intrepth?
+Next, multi-tasking operating system.
+Multi-programming is an advanced version of the program.
+The processes run in which the software runs in a specific round-robbing manner.
+In a round-robbing manner, there is a P1 for a little bit of a P2, P3 for a P1.
+So, all the processes run in a little bit.
+What happens?
+The processes run in parallel.
+The process is so fast, that you cannot feel the gap between the processes.
+The P1 will run here.
+You will be continuously running the P1, because the gap is in nanoseconds.
+So, you will feel that the process runs in a parallel round-robbing manner.
+You will get the opportunity to see the multi-tasking OS in the process.
+Okay, now, let's open the system.
+We have seen a lot of operating systems provide a lot of facility.
+How did we get that facility?
+How did we get the OS to use this facility?
+For this, we need to use an OS to call a phone call, which is called a system call.
+It is not called a phone call, it is definitely called an example.
+If we need to use the OS facility, which is also for the facility,
+then, user program or user?
+So, what happens to the user?
+You install apps, applications, software, like Microsoft,
+or if you have installed Chrome web browser,
+then, if you have installed WhatsApp, then,
+then, you can install any application, or user program.
+You can perform any specific task.
+Any special task, which is the PDF reader of the Adobe.
+So, the Adobe reader, which is your software, is the application program or user program.
+So, the user program is the user.
+Both of them, if you also want to use the facility of an operating system,
+then, what will you do to it?
+You will have to call it OS.
+Why?
+Because the operating system is a task.
+And the operating system has a privilege that,
+that is the task that will not be able to do.
+All of them can do the same for the normal task.
+So, the OS can only do the same for the computer system.
+The other can not do the same for the other user program.
+One of the examples, I told you in detail course,
+that you have to go and save the file from the disk.
+This privilege will do the OS.
+So, if you have to save a software through Microsoft World or Microsoft Powerpoint,
+then, you cannot do it.
+You cannot do your program on the disk.
+You cannot save it.
+You have to call it OS.
+You will do your work and you will take the output.
+I have done your work.
+Because this is a protected privilege operation,
+which can be done on OS.
+Your balance will be reduced.
+Your computer system will be damaged.
+So, a system call is a way of,
+and programs or users to interact with the operating system.
+So, what happens here?
+If a user program needs a privileged operation,
+then the user program calls the operating system.
+The operating system calls the system.
+It is understood that the work that is done,
+and the user program tells us,
+that I have done it.
+So, look, the user program is executing.
+The system calls, so, the mode changes.
+The system, which I will tell you about my computer system,
+is running the operating system.
+So, I will give this operation system a job.
+My CPU will understand that if the OS is running,
+then this can be done.
+If a normal program is running, then this can't be done.
+So, a mode bit is changing.
+The mode bit changes, the system is running.
+The privileged mode or supervised mode,
+the system is running in the kernel mode.
+If the OS runs,
+then the OS can execute the system call against the user.
+And then, the system calls the execution.
+The result of the user process is getting.
+The mode bit is set to be set to be running.
+So, the operating system is ensuring that
+the user program is running, then the mode is the user mode.
+So that the privileged operation is performed,
+it is not allowed to be done.
+Okay, let's go.
+Now, there are some systems called interrupts,
+some systems called trap,
+some implement, some implementations are different.
+You have a very easy book,
+which I can refer to, the name of the Galvin,
+which has a detailed version of it.
+But, we don't need to read so much detail for the gate,
+so we don't have to read it for a long time.
+If you want to know someone,
+then you can refer to Galvin.
+You will understand.
+The next step is to start the process.
+If we want to execute a program,
+then the program becomes a process.
+Now, what happens?
+Program means a set of instructions.
+But, as soon as the program becomes a process,
+the run time activity will be added in that process.
+Now, what will happen in the run time activity?
+From the run time activity,
+it will be added a lot.
+You will have to understand that
+when the program becomes a process,
+and comes into RAM,
+and comes to understand that
+running programs or processes
+are necessary in RAM.
+The one who wants to run CPU,
+is necessary in RAM,
+and is in Main Memory.
+If you have a process or program in Main Memory,
+then the program becomes a process.
+According to the operating system,
+there are three processes in RAM,
+P2, P3 and P1.
+So, the process will remain in your RAM,
+and you will have to store all the processes in 4 sections.
+In this section,
+in 4 sections,
+which of these 4 sections will be remembered?
+The one who has read,
+will remember,
+what is the 4 sections?
+First, data section.
+No, no, code section is below.
+Code section is above data section,
+above the heap and then,
+ishtake.
+Why is this 4 sections different?
+Because in this 4 section,
+the content of the different type of content
+is stored in 4 sections.
+In this code section,
+your program instructions,
+the program instructions are here.
+In this data section,
+the one who has made
+a static and global variable,
+the one who has made a static and global variable,
+is stored in your data section,
+where are stored?
+The heap is used for dynamic memory allocation.
+Dynamic memory allocation.
+So, if you allocate the memory dynamically,
+run time,
+like MLox CLOQ function through C programming,
+then you get it in the heap section.
+When you talk about the stack,
+then you get local variables in the stack.
+Plus,
+function parameters,
+which are your formal parameters.
+And,
+apart from this,
+you get return addresses.
+Where do you return it?
+Overall,
+activation records are said,
+whether you are data structure,
+or programming,
+or you will read in the compiler design.
+What is the matter?
+Now,
+this process is one thing.
+This process is in four sections.
+So, you will see,
+why did you say,
+that the code section is involved
+with three things.
+The three-four sections of this same path
+will be the same,
+the same,
+the same process will be
+the same process in the RAM memory,
+the same process will be the same process.
+So, the program you write,
+is the code section.
+The program is the code section,
+but as soon as the program is run,
+it is in the RAM,
+it is in the operating system,
+and then,
+it is in the RAM section,
+so that it is called a process.
+Now,
+this process is made by OS,
+it is used to control
+this process in RAM,
+but it is used to control this process.
+It is called as
+attributes,
+to control this process,
+it is used to control its attributes,
+the operating system,
+and it is used to control these attributes,
+and it is used to control these attributes,
+which is called
+PCB.
+Tell me quickly.
+Tell me quickly,
+PCB.
+Attributes of a process,
+stored in PCB.
+Process, control block.
+And this process, control block,
+is in the block.
+In your home,
+in your home,
+in your heart,
+in your mind,
+this PCB,
+is in the RAM,
+in the RAM,
+but in the operating system,
+in the control.
+Where OS is stored,
+in its control,
+every single process,
+is in its own PCB.
+So that every process,
+is controlled by OS.
+All the processes,
+all of them,
+if we believe that it is the PCB,
+if it is the PCB,
+then the PCB is the PCB,
+then the PCB is the PCB,
+and all the processes,
+are made by different PCBs.
+What happens in that PCB?
+What is the idea of this process?
+What is the idea of this process?
+Or how will you identify it?
+What is the current state of the process?
+What is the priority of this process?
+Where is the main memory of the process?
+Where is the stored,
+its limit,
+the addresses,
+the size of the process,
+how much is the size of the main memory?
+Its type,
+its type of process,
+and its state,
+what is the list of files?
+Is this process not open?
+Is it not open?
+Is it open?
+The list of devices,
+which are stored in this process,
+is the operating system.
+All this,
+apart from this,
+when this process is going to run,
+in CPU,
+then what will be the value of this process?
+So, all the registers,
+for the execution of your process,
+related to the program counter,
+accumulator,
+status register,
+all the registers' value,
+are stored here in this PCB.
+Look at this.
+General purpose,
+all the registers are stored.
+So, when this process is going to run,
+then how will we send it?
+To send this process to run,
+CPU's,
+the registers inside,
+are loaded here in the system.
+The program counter value is,
+related to PCP1,
+load it here,
+the accumulator value,
+load it here,
+load all the registers,
+so that the P1 process runs.
+Now, we have to stop P1,
+and run P2,
+so, collect the value of the P1,
+put it in the PCB,
+for each register,
+it is stored here,
+and if we want to run P2,
+then the value of the P2,
+if we want to run P2,
+the value of the P2,
+what is the benefit of the P2?
+The instruction of the P2,
+related to the PC,
+the accumulator,
+status register,
+all the registers of the P2,
+will be loaded inside the register.
+So, the P2 will run,
+then the value of the P2,
+the value of the P2,
+and put it in the PCB,
+and the P3,
+the value of the PCB,
+the value of the registers,
+will be here.
+The process is,
+we have to run P1,
+the value of the registers,
+if we want to run P3,
+then we have to load the registers of P3,
+and when the CPU is released,
+we will not be able to complete it.
+Then, what do we do?
+We stop it,
+if we stop and then the CPU is released,
+then we will resume it.
+The current of the registers,
+will be released,
+so that when the next time,
+the same value,
+we will go back to the CPU,
+and the execution will be there.
+Now,
+what is the value of the registers,
+collectively called as context,
+what is the context of the C-O-N-T-E-X-T,
+and the context of the two processes,
+which is called the context switch.
+What is the word on the top?
+The context switch means,
+we stop the CPU and run the second process.
+When the internal details are released,
+it will be a little bit layered,
+so the idea will be,
+that the process is to stop it,
+the register context,
+we will remove it and put it in the PCB,
+and the second process,
+the context of the second process,
+the value of the registers,
+will be loaded here.
+Okay?
+Okay.
+Someone called the Uniprocessor System,
+which means,
+single CPU.
+Single CPU,
+this type of operating system can work with single CPU.
+This can also happen,
+this can also happen.
+CPU is different,
+operating system is different.
+Multi-programming operating system can work with one CPU,
+definitely,
+it works with one CPU.
+Now, we all operate the system,
+single CPU,
+but multiple programs in RAM.
+Let's take an example of this.
+Okay?
+Now, time consuming is definitely done.
+The context switching definitely doesn't take so much time,
+in context switching,
+that you have a lot of time.
+Of course, time consuming is a context switch.
+So, context switch is understood.
+context is understood.
+context is understood.
+Now, there is one more thing.
+One is called a dispatcher.
+There is a cheediah.
+Where the cheediah comes,
+it goes up.
+If you play the game,
+the cheediah will go up.
+What does this dispatcher do?
+It performs context switch.
+The work of a small program
+of operating system is done.
+Dispatcher is done.
+There are many programs in the operating system.
+There is one program in them.
+Dispatcher is done.
+What is the work of doing this context switch?
+It does.
+Okay?
+Let's move on.
+Now, here we have one more thing.
+We have to understand that the context switch
+is the context switch of two different programs.
+Because I didn't tell you in the classroom.
+So, this context switch can be the two types.
+The context switch of the thing is being switched.
+The process can be the same.
+And the thread can be the same.
+If the context switch is done,
+the process is to process.
+So, the work of operating system will be done.
+If the process switch is done,
+the third switch is done.
+The context switch is the third.
+So, the context switch of the thread
+will tell you what the thread is.
+What does it mean?
+What?
+You have two types of threads.
+The third is the kernel level thread and the user level thread.
+If the user level thread is the thread,
+then the context switch of the user program
+also does not need the operating system.
+So, if the context switch is done in the third,
+and the user level thread is the thread,
+then the OS will not need it.
+So, the context switch,
+the process switch is not always the same.
+The thread switch can be the same.
+The process switch can be the same.
+Okay?
+Now, the state of the process.
+What is the process of the process?
+Is the state defined on its basis?
+If the process is not in the RAM,
+then it is in the new state.
+As the process is first in the RAM,
+then it is brought in the RAM.
+So, the transition is brought in the RAM and the RAM is in the RAM.
+The process is called in the RAM and the CPU is ready to run.
+When it will get the time,
+then it can run on the CPU,
+but it is not available at the time.
+Because in the multi-programming operating system,
+at the time, the CPU can run only one process.
+We have to wait for the rest of the processes to run.
+We will run one by one on the CPU.
+That's why.
+Okay?
+Now, the operating system is chosen.
+One of the ready processes,
+which process is to run on the next,
+is to run on the OS and decide on the run.
+So, as soon as the process is selected,
+the state of the run will be declared on the CPU.
+The running state will be declared on the CPU.
+The running state means that the process is to run on the CPU.
+Now, if the process is to run on the CPU,
+then the state of the run,
+if the running state is finished,
+then it will be eliminated.
+If the running process is an IO requirement,
+then it will be in the block-based state.
+The process of the running process is not allowed to be released from the CPU.
+It is not allowed to release the CPU from its own.
+So, it is being eliminated or it is going to be released from its own.
+But it is not going.
+So, if the process is released from the CPU,
+then it will go to the current state.
+The pre-empt will be pre-empted in the ready state.
+So, if the running process is released from its own,
+then the CPU will go to the IO for 2 options.
+But if the running process is released from the CPU,
+then it will go to the ready state.
+After the pre-empt.
+If the IO operation is blocked,
+and the IO operation will be finished,
+then it will be released in the first ready state.
+Then the operating system will choose
+which next concept process will be sent to the CPU.
+To run.
+Okay?
+Okay.
+This is a different state.
+Let's move on.
+I have written all the details of the state.
+Here, the explained here.
+All the installed processes in the new state
+are waiting for the CPU to run in the ready state.
+The CPU is running in the running state.
+The completed process is terminated
+and the IO is waiting for the process to run in the process.
+So, the process can be taken from the next process
+voluntarily running to terminated or running to block.
+The process can be taken from the next process
+to the next process.
+The operating system will be done.
+The process can't be initiated from the next process.
+Okay?
+Now, if the non-preemptive system is yours,
+then what will change?
+What will change?
+That the preemption will not be available
+from the running to the next process.
+Because if the running process is released
+from the next process,
+then the CPU will not be available
+from the next process.
+That means, it will be terminated or the IO will be available
+in the next process.
+That is why the non-preemptive system is not allowed.
+So, if the transition is finished,
+then the non-preemptive system will not be available.
+Now, if someone comes to the system in a process,
+then where is the time spent?
+In the execution of the CPU or IO operation?
+If someone spends more time in the IO operation
+and says that the CPU is less than the execution,
+then they say IO-bound process is called IO-bound process.
+IO-intensive is that IO operations
+are spent more time on screen,
+on speaker, on microphone,
+and is spending more time on CPU.
+And CPU-bound processes
+will spend more time on CPU.
+And on screen,
+there are some other IO devices.
+So, such processes,
+which spend more time in the execution of the CPU,
+they spend more time on CPU-bound processes.
+Where is IO-bound processes?
+There are three types of cues.
+Look,
+if there is any new process here,
+then there are many new processes in the new state.
+So, operating system is
+made list of the conconceive processes
+in the new state,
+and the list is made,
+and it is said that it is job cue.
+Job cue,
+a cue type data structure is maintained
+and the conconceive processes are in the new state,
+and the list of those who are in the new state is
+said that it is job cue.
+In such multiple processes,
+in the RID state,
+the conconceive processes are currently in RID state.
+For this, operating system is
+made a list of the Q or I,
+and in running,
+there will be only one process at a time.
+There is no issue.
+If there is no need to make a list,
+then I have to take it from the beginning.
+No, it is over.
+What does it mean?
+If there is a block in the block state,
+then there is a list ready to be done.
+Who will have to do OS?
+Who is waiting for the conceive process
+for the conconceive device?
+So, what will they say about the device?
+Now,
+there is one thing.
+This is the whole operating system.
+But this is the one-per-device.
+That means,
+the whole process is waiting for
+the other devices.
+What is the different device?
+What?
+We have to wait for an IODVisDisc.
+So, the entire process is waiting for the disc.
+So, the entire process is waiting for the disc.
+We have to wait for the disc to be waiting for the disc.
+So, the list is made for the OS.
+The entire process is waiting for the disc.
+The entire process is waiting for the disc.
+The entire process is waiting for the printer.
+And so on.
+So, why does the entire device become a different device?
+In every list,
+the entire process is ready.
+The specific device is waiting for the entire process.
+So, in this entire process,
+in the same list,
+the entire process is in one list.
+But the device has multiple of different devices.
+Okay?
+Okay.
+What is the scheduler?
+Nothing but operating system.
+Operating system is different from the OS.
+And there are some programs
+that work as scheduling.
+The next thing that is being sent to the next thing is scheduling.
+So, now, we have many new processes.
+We have to add them into the ready state
+to the operating system.
+One is the job scheduler.
+What is the long-term scheduler?
+The long-term scheduler
+is the new procedure in the radio state
+to schedule the process
+and send the next step into the Radee state.
+What he will say is
+the job scheduler or long-term scheduler
+Is the job scheduler of the short-term scheduler
+the short-term scheduler
+is the process in the radio state
+and is selected from the processes in the first and second stage
+to send the next step into the CPU.
+So, the more ready processes are, the more the next step will be to run on CPU.
+Which one of the selection method is this?
+Which one is this?
+This is short term scheduler or CPU scheduler.
+But, let me repeat it again in the language.
+Here, select and bring the work of taking the work of the ready state.
+Both work of long term scheduler.
+Yes, select and bring it to the ready state.
+But, here, in multiple ready state, which ready process, which next process will be running?
+This is called decision of the short term scheduler.
+It is the work of taking the work of this dispatcher.
+This is the work of the ready state.
+The work of the ready state is the work of the ready state.
+It is the work of the ready state.
+Let me turn it off.
+Then, the dispatcher is the work of the ready state.
+So, what is this?
+It is the work of the ready state that, this is the next process, run on CPU.
+So, dispatcher runs it.
+Here, two different things will work.
+Okay?
+I understood.
+So, short term scheduler works of the ready state.
+Which one of the next process will be running on CPU?
+That's it.
+Which one of the options to take?
+Dispatcher.
+Then, medium term scheduler.
+This medium term scheduler works of swapping.
+What does swapping mean?
+Sometimes, the ground is reduced in RAM.
+If the ground is reduced in RAM,
+then you have to take some other program.
+But, there are already many processes here.
+So, some processes are kept in the disk,
+and are kept in the disk,
+and are kept in the secondary memory.
+On a temporary basis,
+you have to get new processes in RAM,
+and you have to make your performance better.
+Because, you have to run the new process,
+and you want to run the new process in RAM.
+You don't use the process very often.
+You have to swap it in the disk.
+So, if the swap is done, then it won't be in the RAM.
+But, the process is not over.
+When you try to do the operation,
+you will swap it and then come back.
+Who will take the medium term scheduler?
+Then, you will take it so that you can run it to the exit.
+So, to take it in the disk and to get back,
+who does this?
+The medium term scheduler is doing it,
+and if the RAM is getting lower, then...
+Okay?
+Now, if you have lost some process from RAM,
+then what will happen if the RAM is lost?
+If you swap it, then what will happen?
+So, first of all, you have to understand that
+if any process is in the ready state or in the block state,
+then it can be swap out or not.
+If it is running,
+you cannot swap the running process.
+Otherwise, you will not be able to run it.
+Because if the process is not in the code, data, main,
+then how will the process run?
+So, you can swap the process only in the block state
+when it is in the block state or in the ready state.
+So, if you swap it from the block state,
+then it will go to the suspended block state.
+If it is resumed again, then it will go back to the block state.
+So, if you have suspended it, then it will go to suspended block.
+If you have resumed it again, then it will go back to the block.
+If you have suspended the ready process,
+then it will go to suspended ready state.
+And if it comes back, then it will go back to the ready state.
+But sometimes, there is such a thing that
+there was a blocked process, which I was pending and it was swap out.
+So, it went to suspended block.
+But, if you stay in suspended block, then the IO operation is over.
+But if the IO operation is over, then it will remain blocked.
+It should be done in the ready state, but if it is suspended, then it will reach the suspended block.
+So, if the process of IO or the event is over,
+while the process is still suspended, then where will it transition?
+In the suspended block.
+It went to the ready state, but still suspended.
+Okay?
+Come.
+This is your updated process state transition diagram.
+Right?
+Now, there are some questions here.
+The long term scheduler is
+Degree of Multiprogramming.
+What is Degree of Multiprogramming?
+The number of processes in the main memory is at a time.
+He is called Degree of Multiprogramming.
+It can control this.
+It controls Degree of Multiprogramming.
+Right?
+What does it mean?
+How many processes will remain in the main memory at a time,
+which is a big execution process,
+which is made in the short term, without any confusion,
+it will control it.
+If it is less, then it will take more.
+If it is more, then it will not take more.
+Who is this long term scheduler?
+This is the work of this.
+It can increase, it can be done.
+Short term scheduler degree of Multiprogramming
+doesn't change anything.
+It can increase the medium term scheduler.
+It can increase.
+Okay?
+Shaddy.
+Have you ever felt this way?
+Your knowledge is not in the test.
+The knowledge is so much that
+I will read it from the Pw
+tomorrow and I will read it.
+My friends are reading it.
+I can explain it so well.
+I know everything.
+But I don't get marks in the test.
+Does it?
+Isn't it?
+It is called the practice of less.
+You have to practice knowledge.
+But how will the knowledge be solved by using the Cushing?
+You have to improve it.
+It doesn't come automatically.
+It comes in some things.
+Some things come in some things.
+As we get knowledge from Cushing
+how can I solve it automatically
+it comes in some way that
+it builds from parents to genes
+or..
+you know from childhood
+coming from you doing
+ural issues
+some words is received by God.
+But how?
+So if someone so who can not practice
+something that does not do
+to get to evil
+disagree more,
+and their practice here.
+An upset
+should not perform any work of other activities.
+Not doing any work for ac Cliff
+They try to work more
+and get inspired by them.
+If you are not getting the marks that you are not getting the question, practice more, practice more, what will you get?
+The question will start to be.
+Okay, let's go.
+CPU scheduling.
+CPU scheduling is the work of the system.
+The system is also a ready process.
+Select one from them.
+Which process?
+Which ready process will run?
+Next, on CPU.
+Next, which ready process will run on CPU?
+Which one will run on CPU?
+Which one will run on CPU?
+Now, there are many goals.
+The fair should be that
+no process is expected to be expected.
+And we are going to favor some process.
+So, the CPU scheduling is a bit fair.
+The average waiting process should be less.
+The throughput should be more.
+The CPU should be more.
+The CPU is not idle.
+The fault is not being kept.
+We want to achieve a lot of goals.
+The CPU scheduling is related to some time
+we should know.
+First, which process will be the first arrival time?
+The first time will be the first arrival time.
+First time will be the first time.
+The execution time of the process is the CPU.
+The CPU execution time.
+The CPU will be the time to see how much time it will take.
+This process will be the first time.
+The completion time will be the completion of the process.
+Then, turn around.
+Turn around is the process has spent so much time
+from arrival to completion.
+How do we get this?
+The completion time of the process is the arrival time.
+If we want to see how much time it will take to the process
+then the completion time of the process is the time to turn around.
+Next is the waiting time.
+The waiting time is waiting for the process.
+The waiting time is waiting for the process.
+How much time it will wait in the Brady cheated state?
+After time you can ignore me of the time.
+It is not important to look after me of this time.
+The waiting time in the meeting will be the same as the event with the consideration of the resulting process.
+Now you don't need to use it because there is no such question in the gate.
+You can leave it, there is nothing related to the gate.
+CPU scheduling is different from your algorithms.
+It is a preemptive, non-preemptive process.
+It is a non-preemptive process.
+It is the whole process that has to be done.
+Let's move on.
+First algorithm is the first, first, FcFS.
+The criteria is simple.
+The first process is simple.
+So what is criteria?
+Arrival time.
+Early arrival time is smaller.
+The process that comes first,
+The arrival time will be small.
+Let it schedule first.
+The simple algorithm is simple.
+If the arrival time of two processes is from the arrival time.
+Then what will be the time break?
+Smaller process ID.
+Each process has a unique ID.
+The same ID is the small one.
+Now you can consider the size of the A, B, C, C, and C.
+The size of the A is the smaller ID.
+P1, P2, P3 is the smallest ID.
+P2, P3, P3 is the next.
+You can understand it.
+The next type is non-preemptive.
+This process is scheduled once.
+So the whole execution ends and leaves the same CPU.
+The second is the CPU, the second is the same.
+This is a simple question.
+The three processes are P1, P2, P3.
+You have to make a chart to solve this question.
+The chart is called CHARTH.
+People will be excited about the MP and MP.
+The chart is full of people.
+You can just eat all the charts.
+I am also from Madhya Badesh.
+This is a Gant chart.
+This is a Gant chart.
+Tell us how long the time will be executed from the Q and C process.
+This is called Gant chart.
+First of all, we will schedule the time to zero.
+We will see which time will be executed from them.
+We have seen the time of arrival and execution of the three processes.
+The three processes have come from the three.
+If the three are here, we have tried to execute the time of arrival.
+If the three are here, we will go to the small ID.
+What is the small ID?
+P1 will schedule the time of arrival.
+How long will the time of arrival be executed?
+It will be executed until the time of arrival.
+And the time of arrival will be executed until the time of arrival.
+The CPU cannot be released.
+The option is not there.
+The process is over.
+Now P2 and P3.
+Graphic span is
+Now if the GANCHAT is closed, what will we do?
+We will see completion time from here.
+P1 is complete.
+Look at the whole GANCHAT.
+P1 is going to be finished on P18.
+So it will be completed from here.
+P2 is finished on P21.
+P3 is finished on P24.
+If we get completion time, we will get turn around time.
+Completion time minus arrival time.
+Now we have told you.
+So we will get turn around time of each process.
+18 minus 0.
+P2 is 21 minus 0.
+And P24 is 0.
+Now we will get waiting time of each process.
+18 minus 1st time of the same process.
+0 waiting 21 minus 3.
+18 24 minus 3.
+20.
+Now what is the question?
+The scenario I gave you before,
+the first printed type version of the process.
+Then we will ask you how to get the P2 process of waiting time.
+How to get the P3 process of waiting time.
+How to get the turn around time?
+You will get all the things from this table.
+Or how to get the turn around time of all the processes.
+Or how to get the turn around time of each process.
+So let's take out the turn around time of the three processes.
+18 plus 21 plus 24.
+Divide by 3 processes.
+How much time is it?
+21.
+What is the time of the time of the time of the time of the time?
+0 plus 18 plus 21 divided by 3.
+13.
+See the difference.
+The question of different types of children is
+the question of different types of children.
+Let's concentrate on the OAS.
+The question of your child is
+I will try to cover your questions.
+Many of the children are asking for PYQV.
+But let's focus on this.
+FWA
+C też is the key factor in the control of mano and crew car.
+heavier passenger driver will reach the FCA and
+送 fuel planer on road through the vehicle.
+About FCA the process of package process including
+a traffic execute.
+The process is running for a long time, and the rest of the process is not running, and it is not responding.
+After a long time, the response of the process will be very slow.
+We will think that the process is running for a long time, and the rest of the process is not responding.
+This convoy effect will only be in FCFS.
+Only FCFS will come.
+Have a question, quickly.
+Please follow us quickly.
+Please take the Gensheared Eric Rosa This is what we want to see in the NX block.
+This is how our tests need to be done.
+So far, the first thing you will see is that the processor is now ready.
+The Ganchard starts at zero time.
+Only at zero time, the only processor is P1i.
+The running time is 6, so we will schedule P1 for 6 times.
+Until 6 times, the rest of the three processes are now ready.
+The first thing we will do is run P2.
+So run P2 will run P2 for 2 times till 8.
+The next step is P3.
+Until 7, 8 and 7, 10.
+In the last, the last step will run P4 for 9.
+How will this Ganchard be made?
+The completion time is complete.
+On 6, P2, 8, P3, 15, P4, 19.
+How will we get the turn around time?
+How will we get the completion time minus arrival time?
+6, 7, 11 and 14.
+How will we get the waiting time?
+Turn around time minus burst time, 0, 5, 4 and 10.
+See, from the bottom of the screen, what is this?
+Turn around time minus 1 and 10.
+Okay?
+Let's take 1 option and here.
+I don't want to solve the type of option.
+The option is the ID of the process.
+The time of arrival time and burst time is there.
+0, 1, 2, 3, 1, P2.
+There are 3 processes.
+There is a Ganchard.
+I mean there are some processes.
+Run quickly.
+There is a personal doubt.
+Tell me.
+I will have to ask you.
+There is a personal doubt.
+Please solve it quickly.
+Please solve it quickly.
+Please solve it quickly.
+You can't solve it quickly.
+Please solve it quickly.
+Please solve it quickly.
+Please solve it quickly.
+Done.
+Done.
+In the ready state process,
+If there is no resource preemption, then it will be blocked.
+Who has to preempt the resource?
+Ready process preemption?
+We don't allow it.
+The process has already resources.
+They don't allow the preemption.
+Operating system doesn't allow.
+In general, if you allow it,
+you have to make this specific type of operating system.
+And this question should be mentioned.
+You can't allow the resource to be used in any process.
+Yes, there is no process at the time 0.
+You can see that there is no process at the time 1.
+There is no process at the time 0.
+If there is no process at the time 0,
+then there is no process at the time 0.
+Then there will be no CPU,
+there will be no pre-battle,
+there is no process at all.
+Then, the CPU will run on 1.
+So, it will run on P0.
+It will run on P0 for 2-3 minutes.
+Now, there are no more 2 more processes.
+This is the same thing,
+the one that didn't come before can do the schedule.
+So, it will be CPU from 6 to 6.
+Then,
+on P1i6,
+do schedule it for 4-4 minutes till 10.
+When P1 was running,
+then P2 will also come on 7.
+Then, we will run it for 3 minutes till 13.
+I thought you ran the process.
+You ran the process.
+Only here,
+2 duration,
+4 and 3.
+There was a 3-3 duration CPU.
+This is the ideal of CPU.
+That means,
+the CPU is not working properly.
+It is pre-battle because it has no work.
+Now,
+tell me,
+total CPU is used.
+How much?
+How long did the CPU actually use?
+Here,
+2 plus 4
+6 plus 3
+for 9 duration.
+Total CPU
+is as much as the CPU idle.
+How long did the CPU idle remain?
+There are 4 and 3 here.
+So, you will see the total duration from 0 to 13,
+13 duration,
+9-time unit for the CPU is used.
+And 4-time for the CPU idle.
+Now,
+if you ask me an equation,
+if you ask me,
+how much the CPU idle is being used?
+Then,
+what will you say?
+4 out of 13.
+100% for the percentage.
+And if you ask me an percentage of time,
+CPU used.
+How much time did the CPU use?
+So, what will you say?
+9 out of 13 CPU used
+is 100%.
+Because,
+the percentage is asking.
+Okay.
+Okay.
+Next algorithm is,
+SJF shortest job first.
+Its criteria is that,
+the first time the process is reduced.
+So, what is the criteria?
+The first time the process is reduced.
+If the process is reduced,
+the time of the process is equal.
+So, you have to apply a TIE breaker to the PCFS.
+Remember,
+you will check the first time in the PCFS.
+If the process is equal,
+then you will go to ID.
+So, first,
+if the first time is reduced,
+then the process is reduced.
+If the process is reduced,
+then the ID is reduced.
+Type is non-pre-empty.
+Once the process is reduced,
+then the CPU will run on the CPU.
+It will run on the CPU.
+Look,
+I will explain the example of this.
+Remember,
+I will repeat it again.
+Until the process is not reduced,
+then you cannot schedule it.
+The criteria is only for scheduling.
+The process will be applied only on the arrived.
+The future process is not on.
+You have already reached the ID.
+Please give me my admission.
+We will get the result of the arrival of the IT Bombay.
+We will get the result of the arrival of the IT Bombay.
+We will get the result of the arrival of the IT Bombay.
+Until the result is not on,
+then you will not get the result of the arrival of the IT Bombay.
+Right?
+Let's go.
+What is here?
+If you look at the time zero,
+then you have only one P1 process.
+Arrived,
+which time zero?
+This is 4.
+This is 6.
+This is 3.
+Only P1 is here.
+If P1 is here, then you have to run it.
+So, you have to run the P1 for 4 duration.
+You will run the entire time.
+Yes.
+Now, you will see the time zero.
+You will have this.
+This will be 4.
+Now, which process is the smallest?
+This one?
+This is P2 for small process.
+You will run the P2 for 3 to 7.
+When you have run the P2 for 7,
+you will see that you have also run the P2 for 7.
+You will see that you have run the P2 for 7.
+And which is the smallest?
+Which is P3?
+Now, you will run the P3 for 8.
+You will run the P4 for 8 plus 5.
+If you have run the P3 for 8,
+then you will check the arrival time.
+Okay.
+Next, you can remove the completion time.
+You can remove the completion time.
+So, you do not waste time.
+You go directly to the next algorithm.
+This is the pre-emptive version of this STF.
+The type is pre-emptive.
+Everything is the same.
+Here, the criteria is the same.
+Smaller burst time.
+But, the algorithm is pre-emptive.
+If you need a type breaker,
+then apply an FCFS.
+The process you had come before,
+you will schedule it.
+Why do you need to read it?
+If you will see here,
+then you have scheduled the P1 first.
+If the P1 was a very big process,
+you will schedule it.
+Now, if later on,
+there is a new process,
+which is small,
+then you will not be able to pre-empt this process.
+That is the reason why we have to tackle this pre-emptive version.
+What is the pre-emptive version?
+The pre-emptive version is that
+if you have a new process,
+then you can schedule the current running process
+and pre-empt it.
+Why?
+Because this algorithm has been pre-emptive.
+Okay. I understand.
+Let me see it and solve it.
+I will tell you.
+Time 0.
+You have a process of P1.
+So, there is no option for you to do this.
+Because this process is going to be in future.
+You will be able to run the P1.
+We have run the P1.
+As we have run the P1,
+we will go to it till the end,
+until the P1 is complete,
+or the P1 will not be able to process the new process.
+So, you can see that the new process is coming.
+So, you have seen that the new process is coming to one.
+So, we have run the P1 till the end.
+If we run the P1 till the end,
+the total was 6 duration.
+If we run the P1 from 6 to 1,
+then the remaining 5 was changed.
+If the 5 duration is saved,
+the 5 duration is saved.
+Now, we will see that
+the time unit 1 has come to us
+is how much time it takes to get this process.
+How much time does the current running process take?
+How much time does the fifth process take?
+How much time does the fifth process take?
+Then, if we have a new process,
+then what can we do for the previous process?
+What can we do?
+We can do pre-empt.
+So, we will do pre-empt.
+And we will run the P2.
+We will run the P2.
+And we will schedule the P2.
+Do pre-empt until the P2 is over,
+or the new process is not done.
+The new process takes two.
+So, we have run the P2 from 1 to 2.
+How much time does the remaining time take?
+The remaining time of the P2 is 1.
+We have checked the remaining time of the P2.
+The remaining time of the P3 is 1.
+The current running process takes three.
+The P3 is small.
+If the P3 is small,
+then the P3 will have to schedule the P3.
+The time of the P3 will be done.
+The time of the P3 will be done.
+If the time is over,
+then the time of the P3 is not done.
+If the new process is coming,
+then what can we do for the P4?
+We will check that the new process is in pending.
+And the new process is small.
+Which process is small?
+Which is small?
+The smallest is small.
+So, run the P4.
+Now, if the next process is not coming,
+then until the P4 is completed,
+then the P2 will run.
+The next process is small.
+The first process is to take the P2.
+So, run the P2.
+The remaining time of the P1 was 5.
+That was 13.
+You will run the process.
+Now, as the preemptive version comes.
+You should be careful that the completion time of the process
+will be a little bit easier and easier.
+See, run the P1.
+The P1 is not completed here.
+The P1 is completed here.
+If you write the completion time,
+then you will see that the last completion of the P1 is completed.
+The P2 is also here.
+Where is the complete?
+The P3 is completed again.
+The P4 is completed again.
+The complete time of the completion is
+the time of the completion time.
+The completion time of the completion is when it is coming.
+Okay?
+Keep in mind the simple thing.
+Here, there is another question.
+How many contexts have been switched between processes?
+How many contexts have been switched between processes?
+Here, 1, 2, 3, 4 and 5.
+The more our processes were,
+the more P1 and P2 switched.
+P2 and P3 and P4 and P4 and P2 and P2.
+The total 5 switches are switched between processes.
+The context switch is switched between processes.
+In general, we should draw the G&CAD always from 0.
+Yes, 0 starts from 0.
+Okay?
+Next, what is the problem in SRTF for this SJ?
+Starvation.
+Starvation means indefinate weight.
+It means indefinate weight.
+If any process comes with a big burst time.
+And the process of a small burst time comes with a lot of delay.
+So, a large burst time process can be met for a long time.
+When will we meet?
+Let's go.
+We will call it starvation.
+The chance to meet is that we will meet a CPU.
+But when will we meet the idea of starvation?
+It is not fair.
+Because we are favouring a type of process.
+We will execute a big process later.
+So, we are not fair.
+We need to wait for a long time.
+We need to get a lot of CPU.
+We don't have any practical implementation.
+Why not?
+Because where is the burst time?
+How will we know how to know that P1 came?
+We will go to the CPU for the 5 duration.
+We don't know how to know the burst time.
+So, we need to implement the burst time.
+No.
+Let's solve this example of SRTF.
+Who is the effect or starvation?
+Who is the effect?
+This process is scheduled for a big process.
+If the road is getting very slow, what do you people do?
+The vehicle behind you is stopped.
+You know that?
+Slowly, slowly, the vehicle is getting very slow.
+Who is the effect?
+But...
+Starvation is indefinite to it.
+The process will not get CPU.
+When will we meet it?
+There is a guarantee.
+We will meet the chances of meeting it.
+It is starvation.
+The process of CPU is getting slow.
+And, solve it quickly.
+Gain chart is important.
+Crawl above and under.
+If you go the b4's burst time part 3, then,
+ambient Lisbath start on the B4's burst time.
+We will not believe in FCFS, Starvation.
+This exam was in 2013,
+which they accepted that it was not possible.
+Some people believe that it is not possible,
+but we will not believe it.
+Let's go.
+At the time of zero,
+one process is coming,
+P1 will be the same as the one we will do.
+Not option.
+We will go till P1,
+or P1 will not complete.
+The next process is coming on P2 1.
+We will only do one duration,
+remaining 6 is very important.
+We will do remaining 6,
+P1 will do one time.
+Then P2 will come,
+which is a small current running process.
+So we will do P1 and do P2.
+We will do it till we do it,
+until the new process is not free.
+We will do it one time,
+remaining 4 is coming,
+we will do P3.
+We will do P3,
+which is complete.
+Now,
+if we check on 3,
+we will not come till P4,
+but we will come till P4.
+We will do it again and again,
+because we will do it till P2.
+We will do it till P2.
+We will continue with P2.
+We will continue with P2.
+We have run till 4,
+because the new process is P4.
+Now the new process is coming for 1 duration,
+remaining 3.
+And then we will check,
+we will see that the P4 is coming from this.
+So P2 is pre-empted again,
+and we got the chance to get P4.
+Till we run till the new process is not coming,
+we will not come till the new process is coming.
+So we will complete the P4.
+Till we run till the next 6,
+then we will do it till the next 6.
+So the new process is P2.
+And we will complete the remaining 9.
+And we will complete the remaining 9.
+And this is the end.
+So this is your GaN Chat,
+and look at this.
+See carefully.
+This is your shortest remaining time first.
+Next Telugu Redom,
+we are going to create a priority-based schedule.
+In this scheduling, we check the priority of the process, which is the priority of the highest.
+Highest priority is the first priority.
+The criteria is, the time breaker will be given here because,
+there is no such thing that the priority of the priority is given in the gate and there is no such thing.
+If there is no such thing, then what criteria will the criteria be given in the Q&A?
+They will be given in the time breaker.
+Don't worry.
+If there is no such thing that the question is given in the Q&A,
+the gate level is not given in the Q&A.
+Okay, let's go.
+Now, both the types of the type are not preemptive.
+What does it mean?
+It means that it will also be given in the Q&A,
+whether it wants to be executed in the preemptive version or non-preemptive version.
+Both of them were not defaulted,
+it should be mentioned in the Q&A.
+In the Q&A, we always ask the static priority.
+The priority of the gate is given once the process is fixed.
+The Q&A becomes the dynamic priority,
+but it is not given in the gate.
+Dynamic priority means the process of the priority can change later on.
+But not in the Q&A,
+the static priority is given in the Q&A,
+which will be the same as the priority.
+Now, as we always mention in the Q&A,
+whether it is in the text format or in the hint,
+that the small number should be a big priority,
+or that the big number should be a big priority.
+We always mention that,
+as we always mention that the process of the four,
+the arrival time, burst time and priority number is different.
+If you check here,
+the priority number is different,
+so the priority number of P1 is 4,
+P2 is 5, P3 is 6,
+and P4 is 10,
+and 10 is written in the highest.
+What does it mean?
+It means that the highest priority in comparison is 10.
+The highest priority is the highest,
+the highest number of the priority.
+So, 4 and 5 are a big priority,
+5, 5 and 6 are a big priority,
+6, 6 and 10 are a big priority.
+10,
+You will not be worried about the mention of this.
+We always mention that,
+that the small number is a big priority,
+you will not need to guess
+that this is a big priority.
+There is nothing wrong with this.
+There is nothing wrong with this.
+There is nothing wrong with this.
+I do not know that I have to hold the test paper
+because people make the test paper
+and become wrong.
+We are not the people of IIT,
+who will make your gate paper.
+Okay,
+Now, we will execute it with non-preemptive.
+Once the schedule is scheduled in non-preemptive,
+then the complete execute will be done.
+If we see the time 0,
+then P1 is coming.
+There is no other option.
+We will schedule P1 with the same schedule,
+whether it is a big priority process or a small one.
+P1 is a full four.
+No, no.
+The first time is four.
+The time will be 4 times,
+and then the CPU will drop.
+Because the non-preemptive is the number.
+We will see the time of the 4 duration.
+So, the time is up to P2, P3, P4.
+The first priority of the performance is
+the one that we will run.
+Which is this P4.
+So, we will run P4.
+One duration is the first time.
+Then,
+the remaining two processes
+are the same as the time of the 4 duration.
+So, we will run P3.
+Pre-time unit.
+Till the last P2 will run,
+the time will be 2 times,
+10 times.
+Such processes will run the non-preemptive version.
+We will have to do two things.
+One process,
+which is already scheduled for that.
+And the second,
+many kids will consider it a burst time.
+The P1 has been 4 times,
+5, P3, 6 and P4
+have been 10 times.
+The first time is this.
+The first priority is to check
+which process we will run.
+Okay?
+Keep in mind
+that this is the first time.
+Don't you agree?
+Now,
+let's solve the preemptive version.
+What will be the fun?
+Time 0 is the same process.
+P1 will run the same.
+We will see the priority after the priority.
+We will have to select two processes.
+So, we will have to do the criteria.
+This is the criteria of the process.
+We have run the P1.
+We have run it for a duration.
+Because we have to do 1 more process.
+I have reduced the remaining time.
+The priority is 4.
+The priority is not changing.
+The time change is coming.
+The priority is 4.
+The process of P2 is 1.
+The process of P2 is 1.
+The remaining time is 5.
+The priority is 5.
+The priority is 4.
+For example,
+If we have a process of a big priority,
+we have to select the process of small priority.
+The preemption will be P1.
+The P2 will run.
+The time change is 2.
+The remaining time is 1.
+Because the process of 2 is 2.
+We have seen P3.
+It is a big priority.
+We will preempt P2 and give the CPU to the process of the big priority.
+We have started the preemption.
+We have done the process of 3.
+The first priority of the process is the preempt.
+We have run the P4 for the first time.
+Till the duration of one,
+the process of 3.
+The highest priority of the process is P3.
+remaining time 2 to the time of V2
+remaining time 1 to the time of V1
+and last V1
+remaining time 3 to the time of V2
+this will work
+ok?
+ok, what it?
+ok, here starvation is
+low priority process
+lower priority processes
+may start
+so far from starvation
+again starvation
+if there is a low priority process
+then it will wait for CPU
+till now I don't know
+indefinit weight
+because high priority process
+if you have reached here
+then low priority process
+will be CPU
+if you don't get CPU
+then it will wait for CPU
+what will it say?
+starvation
+starvation
+ok?
+ok
+let's move on to round robin
+its questions are made
+round robin has run 1 by 1
+in this sequence
+in this sequence
+there is add in the sequence
+in this sequence
+but in this case
+only 1 duration
+will automatically be preempted
+what is the duration of quantum?
+a quantum is
+maximum time until the time of CPU
+if the process is over
+then it will be possible
+for a little while
+it will run on CPU
+but what is the sequence?
+the process is coming
+so what is the criteria?
+its arrival time
+plus the combination of quantum
+there is nothing here
+because we will run one by one
+and the type of the process
+is the preemptive version of this execution
+the process is preempted
+if the quantum is over
+ok?
+let's solve a round robin's question
+I will go slowly
+to explain it to you all
+and before that
+first of all
+why maintain a grade
+so that you have an idea
+which process is the time 0
+on which time 0 is the time 0
+on which time 0 is the time 0
+have you come on single please?
+attered
+now this processor 12, chords
+8, chords
+as per the procedure
+where the second resonance
+is San revised
+besides, this телефон
+is similar to the second Yang
+Frustration
+comma
+is gone
+pepper
+minus
+Now it is time to run.
+2-3 is remaining time 1 and then
+P1 is removed from CPU.
+When P1 runs, it takes 2-3.
+Now we will see what is the process.
+P2 and P3 came.
+P2 was already on 1 and P3 was on 2.
+How to hide from the darkness?
+P1 was inside the CPU and P2 came and it was on 2.
+Now P1 came back from the room and it came back.
+When P1 came back, it was on 2.
+It will be on 2.
+Remember that you will be connected to P1 here.
+It is very important.
+Now the first doubt comes in that
+2-3 is on 2.
+P1 came back from CPU and P1 came back.
+So who is the first?
+The current running process is the last one.
+The current is the last one.
+The previous one is connected to the process.
+Now P2 is on 2.
+P2 will run.
+So it is on 2.
+When P2 was running, it was on 2.
+P3 was on 2.
+When P2 was running, it was on 2.
+P4 was added to the CPU.
+Then P4 came back from the CPU and it was on 2.
+Now the last one.
+Now the sequence is done because there is no new process.
+If there is no new process, then run the process in this sequence.
+First P3, then P4, then P2.
+The complete process will be left.
+P3 came back.
+P3 came back.
+2 duration running.
+After that, P1 came back.
+Now P1 is only for one time.
+So 7 will run.
+P1 and CPU will be left.
+Then P1 complete.
+Done P1.
+If P1 is done, then the CPU will be left.
+Then it will be left.
+It is crossed.
+Next P4 came back.
+2 duration running.
+P9.
+Then P2 came back.
+P2 run.
+Till 11 remaining is 2.
+Then P3 came back.
+2 duration 13th.
+Then P1 is complete.
+Then P4 came back.
+15th remaining is 1.
+Then P2 came back.
+2 duration 17th.
+And after that, P4 is done.
+P2 is done.
+And after that, P4 is left.
+P4 will run again.
+Till 18th and that is done.
+So, all these processes will be 1 by 1.
+The most important thing here is to maintain this ready.
+In which sequence will you run?
+If you understood this, then your work will be done.
+Tell me the completion time.
+P1 is complete.
+P1 is complete.
+P2 is complete.
+P2 is here 17th.
+P3 is completion time 13th.
+And P4 is completion time 18th.
+So, you can do all the rest of the completion time.
+Okay?
+Let's go.
+Once you try this, 5 processes are quantum 2.
+You try this.
+You try this.
+I will repeat this once.
+First, you try this.
+You try this.
+You try this.
+You try this.
+You try this.
+You try this.
+You try this.
+You try this.
+I will repeat this once.
+You try this.
+Try this.
+You try this.
+You try this.
+You try this.
+You try this.
+You try this.
+You try this.
+You try this.
+You try this.
+You try this.
+You try this.
+You try this.
+You try this.
+Okay?
+Ok?
+How will you do?
+As first, you will maintain the process of the radicaum.
+Now we will add P1 to P1.
+We will schedule P1 first.
+When P1 is running, it will be quantum to remaining time 5.
+Then we will have 2 processes P2 and P3.
+Because inside.
+Now, if we return the P1 to P1, then we will connect it.
+Next process is with us.
+First of all, we will run the P4 to remaining time 4.
+When P4 and P5 are running, P4 and P5 are running.
+So, P4 and P5 are connected to the Q and P2.
+And P2 is running from the back.
+Now, all the processes are done.
+This sequence is fixed.
+3, 1, 4, 5, 2.
+Next process is with us.
+6th time remaining time.
+When P1 runs,
+8th time remaining time.
+When P4 runs,
+10th time remaining time is done.
+Before that.
+Next, P5 runs.
+12th time remaining is 1.
+P2 runs,
+14th time remaining time 2.
+When P3 runs,
+16th time remaining is 1.
+Again run,
+18th time remaining is 1.
+P5 runs.
+19th time remaining time is done.
+P5 runs.
+Next, P2 runs.
+Next, P2 runs.
+21th time is done.
+This is also done.
+Then run again P3.
+20th time remaining time is done.
+P4 runs.
+1st time remaining time remaining time.
+P1 runs.
+P3 runs.
+P3 runs.
+P3 runs.
+P3 runs.
+P3 runs.
+P3 runs.
+Okay,
+Quantum value should be so much.
+If it will be very small,
+then it will be less time in the context of the time.
+Because of that, CPU utilization is very important.
+One of the CPU utilization is very important.
+If it is very large,
+then there is a problem that
+CPU will run and the process will end.
+So, this round Robin is degraded.
+So,
+FCFS is also wrong.
+When will we get the highest in this example?
+We have burst time is 7.
+If the value of quantum is 7,
+then the process will come once and it will end once and once.
+So, this context is not going to be the same again.
+FCFS will behave.
+We don't want to get a long process.
+We want to get a little bit of time for the process.
+So that all the processes get time in the system.
+That is why,
+we take very small quantum,
+which makes our system interactive.
+And we also select this.
+Interactive system is in which all processes run for a little bit.
+We also select this.
+Then, what we do is,
+we can say that
+multiple processes can be used for
+multiple scheduling algorithms.
+What we can do is,
+we can make a different queue on the basis of criteria.
+When the process comes,
+we put it in a different queue.
+And we put a different scheduling algorithm for each queue.
+So, one of the way to make different queues based on different type of the process.
+What is the system process?
+Why do we keep a different queue?
+What is the four-ground process?
+What is the background process?
+What is the other algorithm?
+What is the other algorithm?
+Now, the algorithm is different.
+But, what time will we run?
+What time will we decide?
+So, let's go to two options.
+Either you are fixed priority,
+or you are at a preemptive scheduling method.
+We have the highest priority queue.
+We will run all the processes before that according to its own algorithm.
+When all the processes are finished,
+we will execute it.
+And if the process is finished, we will execute it.
+In this way, what you can do?
+You can put this fixed priority preemptive scheduling.
+A fixed priority queue is the priority of the queue.
+And the process of the queue is the highest priority of the queue.
+So, we will run all the processes before that.
+When all the processes are finished, we will obtain the chance of this process.
+And if both the processes are finished, we will get the chance of this process.
+But, we will get the same algorithm as its own algorithm.
+Okay.
+Then, what is the time-slicing?
+You are at a queue of the queue of the queue.
+And then, what is the time-slicing?
+It is the time-slicing because it is the highest priority.
+So, the process is important here.
+So, the queue is the highest priority.
+Then, the queue is the highest priority.
+And the queue is the highest priority.
+Now, what is the problem?
+If you put this thing in fixed priority,
+then the issue of this is that it can be starvation.
+If its processes are not finished,
+then the chances of this process will not be found.
+And the chances of this process will not be found.
+Starvation is increasing.
+There is no flexibility.
+If someone has already come here and has come here,
+then the processes cannot be switched between the queue.
+So, it is not flexible.
+To solve this flexibility,
+a new version of this is obtained.
+Multi-level feedback queue schedule.
+There is only a difference in previous algorithm.
+That the queue can be changed.
+If any process is in this particular queue,
+then it can be upgraded and moved.
+If the process is waiting for a long time.
+Kind of scheduling is a criteria.
+And if any process is here,
+then it can be degraded and moved.
+So, the queue can be changed.
+The most important thing is the feedback process.
+So, it is not that important.
+There will be a possibility of starvation here.
+If there is a low priority queue,
+then it will have to wait for a long time.
+Okay, let's go.
+Some advantages and disadvantages are different.
+FCFS's advantage can be implemented easily.
+Use QData structure.
+No complex logic.
+It is not a complex logic.
+It is not a complex logic.
+It is not a complex logic.
+It is not a complex logic.
+But, there is a convoy effect.
+And the process is not preempted.
+This is the big advantage.
+FCFS has a practical implementation.
+Because, first of all,
+it cannot be preempted.
+And the longer processes are suffer from starvation.
+It can be a long process.
+It also has starvation.
+But, what is the biggest advantage of FCFS?
+That, all non-preempty algorithms are there.
+If, on one process scenario,
+all non-preempty algorithms are there.
+So, minimum average waiting time
+and minimum average turn around time is there.
+Minimum average waiting time.
+And,
+where do you get average turn around time?
+FCFS gets there.
+So, if you have a question,
+what is the non-preempty algorithm?
+But, tell me,
+how long the process can be done
+to avoid the minimum average waiting time?
+FCFS gets there.
+You will not be able to turn your eyes off.
+You will have to open your eyes.
+You will have to open your eyes.
+FCFS gets there.
+And,
+FCFS gets there.
+And,
+FCFS gets there.
+And,
+FCFS gets there.
+And,
+FCFS gets there.
+And,
+FCFS gets there.
+And,
+FCFS gets there.
+So,
+no non-preempty behind breaking such
+situations.
+You will not have the same problem
+with the minimum average minimum,
+hence,
+esto will not have the same problem.
+Any changes here,
+you will find the certain change.
+But,
+you will have the same changes here.
+The changes here,
+you will find the same when you get a instance
+of the instructions
+and get these crystals of course.
+So humm sake,
+The advantage is that we want to respond to the real time situation
+The user will get the fast response
+So, the priority will be increased first and then run on CPU
+So, the response will be given to the CPU
+Low priority processes are also there
+Deadlock is there, you can run in starvation
+If you come with the process of high priority
+The advantage of the round robin is that
+There are only 1 process of execute
+There is no fair algorithm
+There will be no starvation
+Interactiveness is very high
+You can practically implement it
+You can run 1 process of the first time
+When you run 1 by 1
+There is a lot of time to turn on average waiting time
+It should not be done
+It should be done
+But, we also run it
+Because we do not need to reduce the time to average waiting time
+So, we run this algorithm
+We are practically implementing it
+If you can run 2FCFS
+You can choose the right amount of quantum
+Okay, let's go
+When you start to get on the gate
+You wait for the break for a year
+You don't have a break from my class
+You want your current life so that you go to the IT
+So, you are still reading the teacher
+You will get a break
+You have got a break
+You have put a break on your life
+You have accelerated the world
+When you come to this accelerated world
+You will enjoy the money
+You will enjoy the money
+You will feel proud of your parents
+Let's go continuously
+Let's go until the teacher is reading
+Let's go
+Two types of processes
+One process
+No independent processes
+No communication with other processes
+No communication with other processes
+And the second process is
+Communicate from the second process
+Now, the community cannot directly do OS
+It is possible to do OS
+There is an operating system in the middle
+Now, I will tell you something
+Here, I will tell you a small thing
+If you want to talk about the second process
+The operating system will come
+Which means, you will need a system call
+If you want to talk about the second process
+Then you will say that you will talk to me
+Then you will say that I will do it
+And how will you say that you will need a system call
+Remember
+If you want to call the system call
+You will have to call the system
+You will have to call the system call
+Now, what will happen?
+Which processes
+The one who is called as Coordinated
+Coordinating or Communicating processes
+Which is the second process
+Communicate from the second process
+But if you communicate from two processes
+Then you will have to handle the process very well
+Or it will be a mistake
+What?
+If it is a mistake
+If it is not handled well
+Or if it is not handled well
+Then it will be a mistake
+Or if it is a system call
+Or if it is a data loss
+Or if it is a data loss
+Then you will have to make a mistake
+And you will have to call the system call
+Who will do the result of the process
+Who will do the result of the process
+Who will do the result
+Who will do the result
+If it is not handled well
+Then it will be a problem
+What is the synchronization
+The reason is
+The reason is
+The reason is
+The reason is
+The reason is
+Critical section is a code segment
+Where shared variable access
+Means the process of that part
+Where the process of that part
+Where the process of that part
+To communicate from the other process
+That is critical
+Because we know this process
+All the instructions are in this process
+In this process
+These four instructions are the same
+Which are the tools to communicate from the other process
+So what is the operating system on this particular part
+What to do to the operating system
+And how to connect the operating system
+Here
+To synchronize the solution
+Because that part
+Where the process of the process
+Is communicating from the other process
+This is critical part
+Or it will be difficult to handle it
+This is a problem
+What will be said
+Critical section
+Now, how is the communication
+Where the shared variable
+So, the definition of the definition of the state is that the shared variable will be critical.
+Okay, let's say, what is the race condition?
+What is the race condition?
+If we are doing two processes concurrently,
+concurrently means, P1 is a little bit run, P2 is P2, P1 is P2,
+if it is concurrently, it is running in two processes,
+then the final result of both the execution is determined by which execute is being done,
+means, which complete is done and which is done later.
+If it happens, then it is wrong.
+The wrong thing is, we do not want to do this, but it happens.
+What will we say?
+In race condition, a such undesirable condition comes,
+where the final result depends on which process is done,
+the sequence will depend on whether P1 is complete or after P2 is complete,
+then the result will be different.
+First, P2 is complete and after P1 is complete, then the result will be different.
+Race condition comes with some questions.
+As it is a variable, X,
+we do two processes by doing two variables,
+P1 is also accessed, we do two by two by divide by two,
+and P2 is also accessed, plus four by doing four.
+Now, if we run one process at a time and then the second one runs,
+then the result will be different.
+First, if we run P2 and then the first one runs, then the result will be different.
+So, what is the difference between the value of X?
+Let me tell you here.
+I told you that 4 cases are made.
+How to make 4 cases?
+First run P1 and then run P2.
+If we run P1 completely, the initial value of X is 6,
+6 divided by 2, 3,
+X will change in 3,
+then it has read X to 3, 3 plus 4, 7.
+So, one possible value is 7.
+The second option is that first run P2 and then run P1.
+6 plus 4, 10, X to 10.
+Then it has read 10, 10 divided by 2,
+5, the second is changed value.
+The next option is that we can concurrently read the two two.
+Then we can read the same 6 value.
+6 read, 6 read, 6 read,
+and locally, locally in our system.
+Now, it has changed in 6 by 2, 3,
+and here it has changed in 10.
+Then, the one who writes in the next one will reflect the value.
+First, if we write P1, then 3.
+And after that, if we write P2, then 10 will be visible.
+First, if we write P2, then 3 will be visible.
+So, we will see 4 different options here.
+We will see how many different possible values of X
+for Q and I have raised condition.
+Same information.
+It is time to define the vertical section.
+Now if the critical section is here, I have explained it a little earlier.
+If the critical section is here, then we will have to provide it on the critical section.
+We will not do it, we will do it.
+If the operating system is required to give a solution to the critical section,
+then the requirement of the team in that solution is necessary.
+And who is the team requirement?
+Every good, perfect solution is the problem of the critical section.
+Critical section means that if the two processes are communicating,
+then the communication of the process is required to provide the synchronization.
+This is the problem of the critical section.
+And who will give the solution to this?
+Now if the solution is required to provide the solution to the operating system,
+then the requirement of the team in that solution is that the mutual solution must be used.
+The progress should be bounded waiting.
+If the three are satisfied, then perfect solution.
+But if the three are not satisfied, then at least this is the minimum mandatory.
+If the two are missing, then your solution is very difficult.
+Okay, then there is no sense of solution.
+You have to make a mistake.
+Okay, let's move on.
+Let's understand the requirement of the one by one.
+What is the mutual exclusion?
+The mutual exclusion is that one process, of course,
+two processes that are needed to be accessed.
+If one process has started the execution of this part in CPU,
+then the process will be removed from the CPU.
+The process will be removed from the CPU.
+But if the other process is also available,
+and it is also executed, then do not execute the part that is required.
+Until the P1 process, which was in the critical section,
+the CPU was left, or the CPU was returned,
+then the whole execution was finished, after that,
+the second process was completed.
+That is, do not allow the technical section to be passed on.
+Two processes are together.
+If one process is passed, then the other process cannot be passed on.
+Because the mutual exclusion is called this.
+The CPU will be available, the process will be executed,
+but the critical section is not to execute the process.
+Until the first critical section is not left, then you will not get it.
+So, the mutual exclusion of the critical section is not the CPU.
+The process can be pre-empted by the CPU.
+But if one process has started the execution of the critical section,
+then the other critical section cannot start until the first process is left.
+Then what is the progress?
+The progress is called this.
+Then what is the progress?
+The progress is that if one process is in critical section,
+and the other critical section is not in any other process,
+then let it go.
+At least one process is given to the entry of the critical section.
+Let it go, if there is no other critical section,
+then let it go in the critical section of the process.
+But your wrong solution is that
+if the other critical section is not using the other process,
+then let it go in the process.
+Let it go in the progress.
+So, it should not happen like this.
+If there is no critical section in the critical section,
+then let it go in the critical section of the critical section.
+What is the bounded waiting?
+The bounded waiting is that
+for the critical section of the process,
+do the waiting for the bound.
+Control the process for the critical section of the process.
+If one process is using the critical section,
+then the other is waiting for it,
+because it cannot move.
+Because you have applied mutual exclusion,
+so if one process is waiting for the critical section of the critical section,
+the first process that the critical section will be left,
+then let it go in the entry of the second time.
+If you have given the first process 2 times the critical section,
+and the second process will be waiting,
+then the waiting time of the process will not be controlled.
+It cannot be found.
+The duration of the critical section of the process can be preemption.
+What is the preemption of the process?
+The CPU can be completely out of the process.
+It can be completely out of the CPU.
+But the operating system will ensure that
+the current CPU can run,
+but the critical section of the CPU can run.
+The CPU will get it,
+and the CPU will get it.
+The CPU will run,
+but the critical section of the CPU will not run.
+This OS will ensure the solution.
+If the solution is not insured,
+then the solution will not ensure the mutual exclusion.
+Because it was in a process of CPU,
+and the critical section of the CPU will run.
+It was in a process of CPU,
+and the CPU will run.
+So, the critical section of the CPU will run.
+It was in a very different way.
+My YouTube channel was very small.
+I had also read a lot of questions in the crash course.
+If you have more questions,
+then I will read the questions in the crash course.
+I explained it very well.
+I will have to give some time to read it.
+Let's go.
+I had told the first solution of the lock variable,
+which I had told you that the lock is a false or true type of Boolean type variable.
+It is a two processes, P0 or P1.
+Both the processes are shared as a code.
+This is the entry section,
+which will ensure the P0 type requirement
+and exit section.
+This is the way.
+This process is finished in critical section.
+So, the second process is in the data.
+I had told you that the lock variable is a false type.
+It is not a lock.
+The critical section is a lock.
+It is a lock true type of critical section.
+If any process is in critical section,
+then check whether the lock is true or false type.
+If the lock is true,
+it will become true.
+It's a chemical solution that changes the process length.
+It is also considered-
+it will mean a logical phase of the lock.
+The key in the looks is that one is alone,
+and other is ensuite,
+one is Accountable,
+which is
+notき.
+So the process will be further and the lock will be in the inventory
+So the lock will not be in the second process
+So the lock will be in the critical section
+When the critical section will be out of the process
+Then the lock will be in the false sector
+If my work is done, now if there is any other process
+Then go
+What is the logic of this?
+Now we will check the mutual exclusion here
+I told you guys that you should go to the failure
+The possibility of this is that there is a single solution in the critical section of the two processes
+If you make such a possibility
+The preemption of the processes of such a place
+The first process of the critical section of the other process
+The first process of critical section is not left
+So mutual exclusion is failed
+Here is possible
+How to get the CPU
+The first state of the execution is over
+And here is the preemption of the P0
+Now the preemption of the P0 is completed
+The lock is also re-readed
+The lock is open
+The lock is false
+So the condition has executed
+The false is also not stopped
+The lock is reset
+The lock is reset and the critical section is now in place
+The CPU has preempted the preemption of the P0
+So this will stop
+This will reset the lock
+And this will also be in the critical section
+Oh God
+The P0 and P1 are in the critical section
+The P1 has not left the critical section
+The P0 has been in the P0
+Yes, yes
+The P0 has not left the critical section
+The P1 has left the P1
+Yes, the mutual exclusion is not there
+The mutual exclusion is not there
+Progress
+If there is a process for a single person
+Then can the critical section go in the same way?
+If the P0 comes alone
+The lock will be false
+The lock will be reset and the critical section will go in the same way
+So if there is no critical section in any process
+And if there is a one
+Then it will go in the same way
+Progress is here
+There will be no issue
+Then we come to the bounded waiting
+What does bounded waiting say?
+To get a critical section of the waiting process
+Stop the lock
+See
+First, let me tell you
+The P0 has been in the critical section
+And the P1 has been waiting for the critical section
+So if the P0 is in the critical section
+This run has been released
+The false is released
+Condition false
+Means we will go ahead
+We will set the lock
+And the critical section
+The P0 has left the P0
+Now the P1 has got a chance
+So the P1 has seen the lock
+The lock is head true
+Condition true
+This P1 will be trapped in this loop
+The semi-colon means the body of empty loop
+Condition true
+And the P1 is trapped there
+The P1 is trapped in this loop
+Means the critical section is waiting
+Not at all
+The P1 has to be bound
+To get a limited time of the bounded waiting
+How?
+See
+After a while
+The P1 will be preempted
+The P0 has been false
+And from the back
+The P0 has required critical section
+Try to acquire
+Check the lock
+Condition false
+Condition false
+The lock is set
+And then the critical section
+The P0 has not been released
+So the P1 was waiting for this much
+It was trapped here
+But I will enjoy the critical section
+I will not wait for the P1 waiting time
+I will not limit the time of the bounded waiting set
+Set is fired
+Is it not?
+It is not
+Why not?
+Because the P1 was waiting
+It did not get the critical section
+And the P0 was trapped again
+And the P0 was trapped again
+And the P0 was trapped again
+And the P0 was trapped again
+And the P0 was trapped again
+Why?
+Because the P0 has not been given the bounded waiting set
+The solution is wrong
+Then we will see
+The solution we used in turn variable
+Now the turn variable is used
+If the value of turn is 0
+This is P0 process, P1 process
+You will see here
+If the turn is not equal to 0
+Then the condition true
+The process will be trapped here
+If the turn is 0
+Then the process will increase
+And enter the critical section
+The code here is
+If the turn is not equal to 1
+Then the condition true will be trapped
+If the turn is not equal to 1
+Then the process will increase
+If the turn is 0
+Then the P0 is critical section
+If the turn is 1
+Then the P1 is critical section
+Now I explained to you
+That the solution is made
+So that the P0 and P1
+Which are in strict alternate manner
+In strict alternate manner
+Because the P0 and P1
+have been made like this
+If the value of turn is 0
+Then the first P0 will be in critical section
+This condition will fall for it
+Then when the P0 critical section will enjoy
+Then the turn will give 1
+Then the P1 critical section will enjoy
+The turn will give 0
+The P0 critical section will enjoy
+Starting from P0
+The first P0 will be P1
+The two critical section will be in strict alternate manner
+Or the two processes can be in critical section
+No, the mutual exclusion will be satisfied here
+Because if the value of turn is 0
+If 0 is 0
+Then the process will go to 1
+This will go to 1
+It is not possible that 0
+Then the critical section will go to 1
+And if the critical section will stay in 1
+Then the value of turn will not be possible
+This critical section will turn from outside
+Then the process of the critical section will enter
+Okay, the mutual exclusion is not there
+Sorry, the progress is not there
+Because if the P1 is in the beginning for the next
+If the P1 is in the beginning for the next
+So the problem will come
+That the P1 will not get the CPU
+Sorry, will not get the critical section
+If the value of turn is 0
+There is no P0 in the critical section
+It does not want to come
+It does not come
+The P1 is not there
+Turn not equals to 1
+Yes, the condition true
+The process will be fixed
+So this is
+That brother wants to go to the P1 critical section
+If there is no process in the CPU
+Then there is no process in the critical section
+Then P1 is stopped
+The progress has been stopped
+Whose P1 is not the progress
+Founded waiting
+Founded waiting
+Because 1 process will not get the critical section here
+1 process will not get the critical section
+Not getting the critical section
+By keeping another process in waiting
+1 process is waiting
+And 2nd process is getting critical section again and again
+It is not possible
+First we get a critical section
+Then we will get the 2nd
+In a strictly alternate manner
+We will get a critical section
+The process of waiting will be bounded
+2nd process
+Okay
+Only only progress is satisfied
+Then we get a Peterson solution
+The perfect solution
+What does a perfect solution say?
+That there are 3 solutions in this
+You have mutual exclusion
+It is satisfied
+Progress is satisfied
+And it is also bounded waiting
+Here a flag is full and airy
+And a process has its own flag
+It has P0
+It has P1
+So P0's flag
+Flag 0, P1's flag P1
+The flag is the reason why we have to go inside the critical section
+There is also an integer type of a turn
+So that the priority can decide
+Who is the turn in the two?
+The turn will enter the process
+If both of them come in the same way
+So here
+If a critical section wants to go in one process
+Then first we have to set the flag
+This flag 0 is the flag 1
+So that we can announce the other
+And get the other gender
+And get the critical section
+Then this process
+The first turn will be given
+This process will be given
+The first turn will be given
+And then we will check here
+If P1 is the flag 2 of the process
+And the turn is also the same
+Then this process will be passed
+The condition of the end is the same
+P0 will check
+What will P1 check?
+If P0's flag 2 is the same
+Then we will go inside the circle
+And the turn will be the same
+So I will stay here
+Now both of the flags can be the same
+But turn will be the same
+If it is 0
+If it is 0
+Then this condition
+If it is false
+If it is 1
+Then this condition
+If it is false
+Then it will go in one process
+And it will go in one and it will go in one
+So the mutual exclusion will be
+In both of the progress
+If there is one process
+Then it will get a chance
+And in both of the progress
+If this process is
+Then the flag 1 will be false
+It will not be true
+The first condition will be false
+And the condition will be false
+If this process is
+If this process is
+Then the flag 0 will be false
+And the process will be false
+I will check the bounded waiting
+And I will tell you
+See
+Now both of the flags are false
+Let's take the critical section inside
+And wait for the P1
+Let's take the critical section inside
+Flag 0
+True
+Turn value
+1
+Is the flag 1 true
+Not yet
+It is false
+It is false
+Because if the first condition is false
+Then the whole condition will be false
+The critical section inside
+P0 critical section inside
+Let's wait for P1
+Now we got P1
+We got P1
+Flag
+It has true
+Turn
+0
+Flag 0 true
+True
+Turn value
+0
+Yes
+Both the conditions are true
+Yes
+Means the process will be false
+Waiting for P1
+Whose Cp
+The critical section
+Waiting for P1
+The critical section will be false
+If this condition is false
+Then we will get critical section
+Now what happens?
+The critical section is false
+And P0
+Then we got Cp
+It has enjoyed the critical section
+It has come out
+It has false
+Now it is not yet
+P1
+We want to get critical section
+Go up
+Then try to enter the critical section
+Flag has set the true
+Turn value
+1
+Check
+Flag 1 true
+Yes
+Turn value
+P1
+P0
+It will be false
+Both the conditions are true
+If P0 is false
+Then we will get a chance to get P1 back
+Check that flag 0 true
+Yes
+Turn value is 0
+Then we got the second condition false
+Second condition false
+And if we get a condition false
+Then we get P1 Cp
+So P1's waiting time
+We did not extend
+Why not?
+Why not?
+Because
+We have also a bounded waiting here
+We will wait for P1 to be bounded
+If P0 has used the critical section once
+Then we should get P1
+Okay?
+Go up
+Some hardware of synchronization
+What are these hardware?
+The hardware is
+If we make instructions
+Then it works in the entire atomic manner
+It does not execute the entire thing
+So the instruction will be made
+Test and set in Swap
+That is the synchronization solution
+Ultimately
+This first solution was not used in mutual exclusion
+Because when you test the lock
+Then you have to test the true set
+And the preemption is in between
+If the lock is true
+Then you have to test the false set
+If the lock is in between
+Then you should not be in the preemption
+So it was allowed here
+If you have tried the lock
+And you have to test the true set
+So this solution will definitely give you mutual exclusion
+Test and set the lock
+And then the preemption is not there
+So mutual exclusion will be there
+And this solution was made here
+To set the test
+What happens?
+If you have called the value of the lock
+From the false set
+If you return the false set
+If you call the true value
+Then the true return
+So you have set the true set
+If you call the true set
+If you call the false set
+Then the false return will be there
+But the return will be there
+Which you will send in your input
+But the lock value will be set from the true set
+Like here
+You can leave this code like this
+If you call the true set in test and set
+Then what will be the true return?
+If you have given false input in test and set
+And called it for that
+So from here
+The false return will be there
+But whatever input you have
+You have to set the lock variable
+The return will be there
+Test and set function
+Which you have given in input
+But what will be set?
+After this function
+The value of the lock will be true
+After this function
+The value of the lock will be true
+Okay
+Look here
+We have passed the lock in test and set
+If the lock is false in the beginning
+Then one process will be
+The lock will be read
+From here
+The false and the lock
+The lock will be written
+But the lock will be set
+After this test
+So what will happen to it?
+If the second process will be tested
+Then it will always be true
+So in critical section
+The only process will be
+The mutual exclusion will be satisfied
+Progress was in the lock type variable
+The boundary rating is so much
+If the boundary rating is not there
+If the boundary rating is not there
+Then we will not
+We will not
+That's all the difference
+In this
+And the lock variable
+Is the atomic work
+Test and set is the atomic work
+Because you have made the instruction
+Similarly, you have a swap function
+Which is the value of the swap
+How will this work?
+You have a local variable
+The variable of each program
+And a shared variable is lock
+The lock will be read
+In critical section
+The two processes will be set
+And the two processes will be set
+So here are two processes
+P0 and P1
+Both the processes will be available
+For this, the value of this is the value of this
+If the critical section of P0
+Is the value of the critical section
+Is the value of the key of the key of the key
+Is the key of the key of the key of the key
+Yes, so swap it
+Who swap it?
+Lock and key
+The lock is shared
+In the tour, the value of the key is false
+If P0 has false
+And took it in
+And who swap it from here
+It is a key of the key
+Which means that the lock is the first
+Who swap it from here
+If the key of the key of the key of the key is false
+It is a shared variable lock
+As soon as it is done
+We will check the condition
+Will this loop be changed again?
+No, it is not
+If the key of the key is false
+The next step will be the condition
+Because of false
+The process of the key is not false
+The process of P0
+If the key of the key of the key is false
+Then we will set the key of the key
+Check what key is true
+And swap it with lock
+Now take the value of the key of the key
+And put it here
+The key of the key is true
+If the key of the key is true
+Then this condition will be true
+The process of P0 is false
+If the key of the key is false
+If the key of the key is false
+Then this condition will be false
+You can guarantee mutual exclusion
+That one process
+Will be false
+The process of the key is false
+If the key of the key is false
+Then the critical section will be false
+We do not worry about the key of the key
+But we do not worry about it
+Then we will have synchronization tool
+We do not have synchronization tool
+So type of synchronization tool
+Sima4 or monitor
+Monitor is not coming
+Only Sima4 can be read here
+What happens Sima4?
+Sima4 is an integer variable
+But only two functions can access it
+Or directly set the value
+Or read it
+Or just two functions can access the variable
+When you start making Sima4
+You can start with initialization
+Then you can access two functions
+You can access two functions
+You can access two functions
+Weight and signal
+Weight and signal
+Integer value which can be accessed only with these two functions
+And these two functions
+They are atomic functions
+They will go along
+Or they will go along
+And start with the initialization
+What is the function of weight?
+Weight function
+If you call the value of Sima4
+Then this is S-minus
+And the signal is S plus plus
+So you will increase the value of Sima4
+And the value of Sima4
+If the value of Sima4 is 0
+Then the value of Sima4
+Is 0
+So if you have a value of Sima4
+Then you can access Sima4
+And the value of Sima4
+Will be increased in weight
+The process of S-minus
+Will not be possible
+So the weight function will work
+When the value of S-minus is 0
+Or the process of weight function will not work
+So the value of Sima4
+Is not possible
+If you don't have an explicit mention
+In question
+So remember
+The number of Sima4
+Is non-negative
+By default
+You can't be 0
+So you can't be small
+In general, Sima4 is 2 types
+Look at these types
+There are 1 is binary Sima4
+And 1 is counting
+The value of binary Sima4
+Is only 2
+0
+And the value of counting Sima4
+Is only 0, 1, 2, 3, 4
+Any positive integer
+Okay
+If you have a binary Sima4
+I will test your knowledge
+S
+The initial value is 0
+Will the weight be successful
+Or will not work
+Because S-minus is 0
+If the value of S-minus is 0
+Will the weight be increased here
+Will increase
+Will be equal to 0
+Will be successful
+If the value of S-minus is 1
+And if you run your signal S
+Will be successful
+Will be successful
+But
+S remains 1
+Remember
+If you run on binary Sima4
+If 0 is 1
+Will be 1
+this is the output bar I trust climate change
+right now your agency as anauthor
+the requirement for these rates is
+it's that the received numbers as red
+fix 100U
+your system as self neutral
+i believe that I get a name
+will recognize what happens
+now fault is ending
+i'm sorry
+it's all exact
+see buses
+and then you will get out of the signal.
+Whatever process is critical in the section,
+you will want to know the weight as successfully,
+you will only get one of the value of s.
+So if the value of s is increased from 1 to the height of s,
+that means counting is the same,
+then the more critical in the section of the process,
+the mutual exclusion will not be possible.
+Okay?
+See, this is a question in front of you.
+I will answer it quickly and then we will solve this question.
+Thank you.
+I will answer it quickly.
+The answer is 10,
+is it correct?
+What is the question?
+We have s and initialized with value 1.
+The initial value is 1.
+Consider 10 processes p1 and p10.
+all processes have same code which is placed below.
+But one process, P10 has, what is in P10, signal is in place of weight S.
+Means, in the beginning, the weight S is signal S.
+Then, critical section is, and then the signal is signal S.
+Because, the signal S is written as, if all processes can execute multiple times,
+then maximum number of processes which can be in critical section together.
+And then, in the same process, the critical section can go.
+This P10, signal is, and then, changes the rest processes into critical section.
+How? S's value is initially 1.
+If the weight S is running, then the value of S will be reduced to 0,
+and the value of P1 is in the section of the critical section.
+Priem it and then the CPU will run P10.
+Because, the P10 can run the signal.
+The rest process will remain in weight, but the weight can go up, the signal can go back.
+Then, after preemption, run P2, and then, the weight will go from the bottom to the bottom.
+Then, the P10 will run, the signal will run, and then the P3 will run in critical section.
+Then, the P10 will run, the signal will run, and then the P3 will run in critical section.
+The answer is, all 10 processes can enter into critical section.
+Okay?
+Here, there is a more type of question.
+If we have two processes, P0 and P1.
+And, we have to execute this.
+In the beginning, we have P0, then we have P1, then we have P0, then P1, then P0, then P1, then P0, then P1, then P1, then we have alternate manner.
+You have to take two simaphores, S0 and S1, binary type.
+Now, in the beginning, we want to run the concept process, P0.
+So, we have to initialize the S0 of P0, and initialize the S1 of P1.
+What to do?
+We have to run the weight in P0, which will go to the beginning of S0.
+And, what to do in the end?
+We have to do the P1, and S1.
+What to do in the process of the weight in P1?
+We will not run the beginning of S1.
+Because, because the S1 is zero, the process of the P1 will be fixed here.
+When P0 completes, it will be beaten up by the signal, then it will go to the end.
+This will be the solution.
+And, who will signal this?
+We have to initialize the S0, so that P0 does not run twice.
+The first time, we will run the S0, and then we will run the weight after the S0 is zero.
+Then, when will it be one, when will it be P1?
+So, P0, then P1, then P0, then P1.
+If we want to run the S1, then we have to initialize the initialization.
+If we want to run the P1, then P1, then P0, then P1, then P1, then P1, then P1, then P4,
+You have to initialize the S1, and P0, then P0.
+If we initialize the S0, then P1, then P1, then P1.
+How do we run the S3 in a modern manner?
+This is an example.
+Similar kind of question, I came to the gate in 2010 and I have come to it.
+You check it once.
+The gate is a question.
+You check it once.
+The point is that, we take a break and
+We will take a break till what time?
+What is the good age?
+8 and 5.
+Take 15 minutes.
+We will meet at 6.37 pm.
+I will come in 15 minutes.
+You too come.
+And then?
+Okay.
+Let's meet at 15.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+See you.
+But you have to write an exam and you have time to think about it.
+And you can reset as soon as possible.
+You can finish as soon as possible.
+What is the problem of a Pounder Buffer?
+Which is a lot of producers and consumers' share.
+There is a limited capacity of N size.
+You can put the product in it.
+The items that will be produced here will be added in the producer.
+The items that will be produced will be added in the producer.
+If the buffer is fully filled, the producer will have to stop.
+If the buffer is empty, the consumer will have to stop.
+The items that will be produced will be added in the producer.
+For this, we use three variables.
+Mutics, Full and Empty.
+Mutics is a binary Cmf.
+The ensure that the buffer will access one process at a time.
+Or a producer or consumer.
+For mutual exclusion.
+Full and Empty are two variables.
+The buffer is fully filled.
+The empty slot is fully filled.
+The empty slot is fully filled.
+How do we initialize it?
+The initialization will be...
+...mutics will be initialized for mutual exclusion.
+The buffer will not be fully occupied.
+The empty slot will be empty.
+If the producer is full, what will the producer do?
+The wait will be released.
+If the empty slot is full, I will move forward.
+If the empty slot is full, I will move forward.
+If the empty slot is full, what will the producer do?
+The wait will be released.
+The buffer will access the access.
+The item will add.
+The buffer will open the buffer so that the mutics will be fully filled.
+The filter will be fully filled.
+The filter will be fully filled.
+The consumer will have to stop.
+The wait will be released.
+If the occupied slot is full, it will be fully filled.
+If the occupied slot is not fully filled, it will be fully filled.
+If it is full, it will be fully filled.
+If the buffer will access the access, it will remove the buffer.
+Then, the mutics will be fully filled.
+The buffer will open.
+And the empty filter will open.
+There is a single item in the empty slot.
+If you have given the code, then the number of empty slots will increase.
+This code will run.
+I am expecting you to get the chance to get the code.
+If you do not remember the code, then you can leave it.
+Okay?
+Let's move on.
+Reader writer problem is a file which you want to read a lot and write a lot of writer.
+Now, the problem is that if the reader comes and the reader wants to read, then the reader will allow you to read.
+If the reader is already reading, then the writer will not allow you to read.
+If the writer is already writing, then the reader will not be able to read.
+So, you can access two reader files at a time.
+But if the writer comes, then the file will not access.
+If the writer comes first, then the reader cannot access.
+To access the file, we have to put a solution like this.
+In solution, we will use three variables, mutate WRT and read count.
+Mutate binary cma4, so that we can read count variable on the axis of the variable.
+I will count through mutual exclusion because read count is a normal integer variable.
+Because it will tell us how many active reading processes are there.
+WRT is for the writer process.
+If the writer comes, then all the reader writer will read.
+And if the reader comes, then the writer will read.
+For this, it is WRT.
+Mutate x1, WRT1, read count 0.
+Because there is no reader in the beginning.
+So, it is 8 count 0 initial.
+What will be the code of the writer and reader?
+The code of the writer is very easy.
+But, let's write WRT on the way.
+If we go to writing, it will not be.
+So, it will not stop.
+If the writing is over, then write WRT on the way.
+So, it is the code of the writer.
+But what we have to do in the reader code.
+First, write WRT on the mutate.
+And then, read process read count plus plus.
+Read count is a big problem.
+Read process is a big problem.
+If read count is reached, then the first process is there.
+So, it means that the writer will have to block by taking weight on the WRT.
+So, move forward and mutate x to signal.
+And enjoy reading from the beginning.
+When reading is over, the first way is to move forward.
+And read count minus minus.
+Then, when read count minus minus,
+So, if the last reader process is outside, then check.
+What is the value of read count?
+It means the last reader is zero.
+So, then, WRT will be marked as the writer is 8.
+And then, the signal mutate.
+And then, mutate.
+This is the code of the hash.
+Okay?
+The next dining philosopher is very close to us.
+Because, he is eating on a round table.
+He is eating a chocolate stick between two philosophers.
+If he wants to eat, then he needs to take both the chopsticks.
+If he wants to eat, then he needs both the chopsticks.
+Okay? If he takes these two chopsticks, then he will not eat.
+Because, he will not get the chopsticks.
+He will not eat both.
+What do we do to take a solution?
+The simple solution is that we take a called a chopstick,
+A size of the Arel,
+which everyone can start with.
+This is binary semaphore.
+The Arel is the binary semaphore,
+because one of the chopsticks is denoted.
+The key is that,
+if one philosopher wants to eat, then he needs to take two chopsticks.
+One is on the chopstick,
+and one is on the i plus one.
+But, just because it is circular,
+then what do we do?
+We run the wraparound here, i plus one,
+so that the last one,
+the number 4 of the chopsticks,
+the number 4 of the chopsticks,
+will be zero.
+Then,
+if we get both, then we will eat.
+We will not get both.
+We will wait.
+We will not get both,
+after eating, we will signal both.
+The chopstick number, i plus one,
+will leave both of them, so that they can eat it.
+And,
+this is the code.
+But, here the deadlock is possible.
+If one of the chopsticks is removed,
+then the deadlock will be the possibility of the deadlock,
+that everyone will wait for one or the other.
+If the deadlock is, then there are some solutions.
+If you have five philosophers, then you have six philosophers.
+Or if the five philosophers are five, then you have four philosophers.
+If one philosopher's salary is less than the chopsticks,
+then the deadlock will not be possible.
+One philosopher will always stay there.
+This is minus one philosopher.
+If you are taking the philosophical chopsticks, then you have to make one asymmetric.
+If everyone starts from right, then start from left.
+So that, always, the one philosopher who is in the world,
+will avoid the circular weight.
+Another solution is that, when both chopsticks are available,
+then the philosopher will not take the first chopsticks.
+So, what happens to him? If one is available,
+then the philosopher will not take it and will not block it,
+he will stay there, so that the person will get the chopsticks.
+And, he will eat the food.
+So, the deadlock will not be possible.
+So, what does this say?
+Or, hold it or wait.
+Don't do a single step.
+This is the circular weight.
+Don't wait for the circular weight.
+Okay.
+Next is the operations of resources.
+Now, we are going to the deadlock chapter.
+What happens in the deadlock chapter?
+If a particular process is required,
+a hardware resource is a disc printer or something.
+So, before the CPU, sorry, I asked for the OS.
+I asked for the resource.
+If the resource is given to the OS,
+then it will be used.
+And then it will be released.
+If the OS does not give it, then it will be requested.
+So, the process will wait, when it will be given to the resource,
+then I will use it and execute it.
+I will use it.
+Okay.
+What happens if a process is required?
+Hold the other one and wait for the other one.
+And the other one will wait for the other one.
+What happens?
+Deadlock means that two processes are in such an event that
+two processes will not be able to come forward.
+Never.
+Starvation and deadlock have a difference in the story.
+There is a chance to increase in the starvation.
+When will it get this idea?
+But it can be found somewhere.
+Deadlock will not get a chance of deadlock.
+The process will not increase.
+This is confirmed.
+If you can prove it, then deadlock.
+The chance to increase is the chance of getting executed.
+And if waiting is long, then it is the starvation.
+The chance to increase is not the chance to get executed.
+So, deadlock is said.
+There are four conditions that are necessary.
+If you want to get deadlock, then it is mutual exclusion.
+This mutual exclusion is not the case of the process of the critical section of the mutual exclusion.
+This mutual exclusion is the access of resources.
+If the printer is using one process, then it is not able to use the same process at the same time.
+The process will not be able to leave it and meet it with P2.
+Mutually exclusive access of resources.
+Mutually exclusive resources can be used at the same time.
+Hold and wait.
+The more deadlocked processes, the more the resources will be able to hold and wait for the other.
+If the process is not held, then it is not possible to use it.
+Or if the person does not have a weight, then it will not be deadlocked.
+Why? Because every process will wait for another person to be deadlocked.
+If the process will hold, then it will wait for another person to be deadlocked.
+So, hold and wait.
+No preemption.
+The process can be left without resources.
+If the printer is using P1, then P2 has left it without resources.
+No. It can be the preemption of resources.
+The process will be preempted on CPU.
+No preemption is the resource of the preemption.
+If the process has a resource, a camera or a microphone, then the other process will not be able to leave it.
+That is no preemption.
+And the last one is the circular weight.
+The deadlocked processes will wait for another person to be deadlocked.
+If this is the case, then deadlock will be the one.
+If the condition is 1.7 satisfy, then deadlock will not be able to leave it.
+A resource allocation graph is told in the resource allocation graph that nodes are two types of vertices or nodes.
+Two types of nodes are told in a process that we talk about in the circle.
+And one is the resource that we tell.
+If there is more than one instance in the resource, then we tell.
+The edges are two types.
+One is the allocation edge.
+And the other is the request edge.
+Where should the allocation edge be?
+Where should the resource or the instance of the resource be?
+If there is multiple, then the process will go to the edge and the request edge will go to the process.
+We will always go to the resource and we will never go to the instance.
+How to recover the deadlocked recovery?
+I will tell you in a little bit about this example.
+How to recover the resource allocation graph?
+Okay, let's go.
+Let's see how to recover the resource allocation graph.
+First, let's see how to recover the deadlocked recovery.
+To recover the deadlocked recovery, the option of the theme is to never give the deadlocked recovery.
+If the deadlocked recovery is done, then the third one is never given.
+The first is not given.
+The second is not given.
+There are two solutions.
+Deadlock avoidance and deadlock prevention.
+The second is to avoid the deadlocked recovery.
+And the third is that the deadlocked recovery is never given.
+Let's see the first.
+If the deadlocked recovery is done, then the fourth necessary condition will not be given.
+If the deadlocked recovery is not given, then the deadlocked recovery is never given.
+Now, let's think about the development of the new solution.
+How to recover the mutual exclusion?
+Is there two options?
+Or is there any other option that give all the processes you have given to your resources to get the resource sharing?
+If the resources you have given to your resources to get the resource sharing, then the mutual exclusion will be given.
+But, both are practically possible.
+All the processes are not communicated and are not possible.
+All the processes are available to get their resources.
+If you want to CPU, then you should use 200 CPU.
+If you want 100 processes, then you should use 100 printers.
+So, practically, the mutual exclusion should not be prevented.
+Then, hold and wait.
+The solution of the hold and wait is that you have to hold the processes or wait.
+If you have any resource to get the resource, then you should not wait.
+If you have any resource to get, then you should give it all.
+If you do not get the resources that you have to get, then you should hold the process or wait.
+Or wait and do not get the same.
+Hold or wait.
+You should not be together and wait.
+But, in this, the process of waiting will be a little long.
+The issue of the starvation will be that the resources you have given to you were not available to get the resource.
+If you do not get the resource, then you should wait and wait.
+Then you should leave the rest of the three remaining.
+Now, you should wait till the next three.
+In that case, you should wait till the next three.
+Next, no preemption.
+If we give the resources to the processes, then it will be a big mistake to give the resources to others.
+So, the resources that you have given to you are not available to you.
+It is difficult to do this in an unstable state.
+So, what is the circular wait?
+What is the circular wait for the processes to be said to be the resources that you have to do in one order.
+Either in increasing order or decreasing order.
+Means, if you want to have three resources to be done in one, two, three.
+So, first, you should hold the one and then you should have two.
+Then you should have three.
+If you have three, then you should have three.
+If you want one, then you should have three requests.
+You should hold the three and you cannot do one request.
+You should have three requests in increasing order.
+So, first, you should release three.
+If you acquire one, then you should have three requests to be done.
+So, you cannot wait for the circular wait.
+In a specific order, what do you have to do?
+Okay, request, raise, do.
+Okay?
+Let's move on.
+Next hit did lock avoidance, in which we run the bankers algorithm.
+What does bankers algorithm say?
+When a process will come, then we have to tell the maximum.
+What to tell? The maximum.
+That is how the maximum will tell us how many resources we need to get to our own process.
+When the maximum will tell us, then we will see the maximum process of that maximum.
+How many resources can we give to the process?
+So, in the system of deadlock avoidance, the operating system is trying to keep the safe state.
+Safe state? What is this?
+Safe state means that deadlock will not be there.
+Safe state means that deadlock is not deadlock.
+It means that deadlock is the possibility of deadlock.
+So, in the system, you should not go to the safe.
+This is called, who is deadlock avoidance?
+But this is not practical. Why not?
+Again, we will talk to the process of that.
+You should tell us how many maximum resources you need to get to your own process.
+How many maximums will you get to the process?
+It is possible.
+So, the maximum that you need to tell us, how many of the processes are allocated to that maximum.
+If we know, we can say that the system is safe or not.
+How will we get it?
+You will have such a question.
+Processes?
+The different from the three resources of their allocation.
+Maximum and this is the current available.
+Available means that the operating system has not been given to any process in free.
+This is not allocated to the process.
+This is the allocation of each process.
+First of all, we will get the need.
+Each process will be different.
+And how the need is allocated to the maximum minus allocation.
+Every process of the maximum minus allocation, every resource of this minus 1, b minus b, c minus c.
+So, here we have, the need is 743 p1.
+1, 2, 2, p2.
+The need is 6, 0, 0.
+The need is 3, 0, 1, 1.
+And the need is 4, minus 0, 3, n.
+Now, what will we find out?
+Now, we will find out.
+We will find out, from here,
+which is the process, which can be completed.
+The need for which we will complete, if the need is small, then execute the process.
+We saw here, that there are 7 resources.
+So, this is not p0.
+p1, yes, this is a1,
+p2 and c2.
+p1 is the need for p2.
+p2 is not the need for p1.
+Similarly, p4 is not the need for p1.
+So, we can go ahead with the need for p1 or p3.
+We have executed p1.
+So, if p1 is executed, then what will be the need for p1?
+We will leave the allocation after execution.
+So, the allocation of p2 will be free in the available available.
+2, 0, 0.
+Now, we have 1, 5 instances.
+If we want 7, 6, then p0, p2, then we cannot come.
+We can come to p3, p4.
+You can go ahead with p3.
+If we can do p3, then we can execute p3.
+Then, we have p3, which will be added to the allocation of p2, 1, 1, and 1.
+Now, you can also take p0, p2, and p4.
+So, 1 by 1, all processes will be done.
+If all processes are done, then you will get a safe state.
+If all processes can execute,
+means no, a safe state.
+If a safe state is here, then there is another thing that comes out.
+Safe sequence.
+In any sequence, you have run the processes, and tell them the sequence.
+We have just taken the safe sequence, and we have run the p1, then p3, p0, and p2.
+Multiple safe sequence is possible, and one is more possible.
+It is absolutely possible.
+Now, the only thing that comes out of safe sequence is that, we have a safe system.
+But, all of a sudden, this process comes out from the inside and says that I should get an instant.
+I will get the OAS for the remaining resources.
+So, the operating system will check that if I give this resource, then I will not be safe.
+If it is not safe, then the OAS will allocate resources, or request will reject.
+So, how will OAS do this?
+What if process p0 request for one additional instance of resource A and two additional instance of resource type C?
+That means, it is a request for P0, and it has one of its 0 and C of two instances.
+First of all, you will check that the request race is valid.
+This should be removed from its needs.
+So, we have just taken the same process that we have a safe system.
+So, what was the need?
+743.
+122600.
+It is easy.
+011 and 432.
+Right?
+This was the need.
+We have checked that the need of P0 is 1.7.
+It is bigger than 4.
+It is smaller than 3.
+So, this is valid request.
+You should check that the resources are available.
+1 has 1.
+1 has 0.
+So, it means, we can increase the rest.
+The process request is valid, and we have it.
+It is available, but we will not be able to give it, but this will depend on this.
+That it will be safe after the sale.
+So, what will the operating system be?
+We will check the first theoretically that we will see whether the system will be safe or not.
+If we give so many resources, then they will be less available.
+Free resources will be less than 102, 1, 0 and 2.
+Its allocation will increase, 1, 0, 2 will be increased.
+And its need will be less than 102 because the requirement that we gave to the resources in that,
+So 1, 0 and 2 will be less than its need.
+Now the 3 changes that we have changed, allocation will increase,
+request will decrease the need and will be available.
+Now we will see whether the system will be safe or not.
+We have checked whether we can complete the need for the system.
+We can do the P0 need for the system, no, its cost is 6, its not for me.
+Its need for the system is not for the system, because its cost is 2, its need is not for me.
+Its need for the system is not for me, its cost is 6, its not for me.
+Then its cost is not for the system, its cost is not for the system,
+Its cost is not for the system, its cost is not for the system, its cost is not for the system,
+Its request will be rejected.
+No any process can run further.
+If you give this request, then its cost will not be in a single instance,
+Its process will be in unsafe state.
+If we go to the system unsafe state, then its request will be rejected.
+We will not do that.
+Now its request will be in a single instance.
+How will we do the didlock detaq?
+If you do not use the didlock avoidance or prevention, then you will detect the didlock.
+And then you will recover it.
+So the didlock detaq is 2 ways.
+Or if all the single instances of these resources are in a single instance, then it is multiple.
+If single instances are in a single instance, then a wait for graph becomes the resource allocation graph.
+The resource allocation graph is here, there is a R1, there is a resource, there is a Dabba, there is a resource P2.
+P1 is a process which has requested R1, this is the request edge, this is the allocation edge.
+So we will see from this graph, we will make a wait for graph, in this wait for graph, what will be the only process and only the process which is waiting for the person.
+So it will not be able to move forward, because its a resource required R1.
+Now why is R1 not getting it? Because it is with P2.
+When the P2 will end, R1 will leave you with P1.
+P1 waits for P2.
+So P1 is a edge, it shows P1 waits for P2.
+The direction edge is waiting for P1 waits for P2.
+Similarly P2 is waiting for R4 to be P3, P2 waits for P3.
+P2 waiting for R5 to be P4, P2 waits for R4, P2 waits for R4.
+P2 is waiting for R3 to be P5, P2 waits for P5.
+P3 waits for P4, P4 waits for P1.
+So you have made a graph, in this graph, if it is a cycle, it is a cycle of the deadlock.
+What is the cycle? In this graph, it will go from one node and then it will come back to the same place.
+If it is a cycle, then deadlock will be detected and if it is not a cycle, then it is not a deadlock.
+But here single instances are the same, if multiple instances are like this, then you cannot guarantee deadlock.
+So if multiple instances are the same, then the specific bankers type algorithm will come here.
+Now children get confused a lot, the deadlock avoidance of bankers algorithm is on the un-data.
+What is the bankers algorithm? You will have max, maximum and allocation.
+So you have to see safe and safe.
+This is different.
+If you do not have bankers algorithm, then you will have to see the allocation and request of deadlock.
+If you do not get maximum, then you have to understand that there is no deadlock here, so you have to check.
+Okay? So available resources have ABC zero zero zero.
+Allocation is this, request is this. We can complete the request of this process.
+See, the request can be completed, this is the same.
+We will run zero zero zero. If we run P zero, then the allocation of P zero will be zero zero.
+The process is the same, both of them have to be done with the need, with the request.
+The available request comparison is the required request.
+The required request is the required request.
+Then you complete the request from zero zero, then this request will be completed from zero zero to three zero three zero three zero three.
+You can complete the request from zero zero to two zero zero two.
+So we have P one allocation, that is the same.
+Then, we can complete the need from P one three, if we can complete the request, then we can add two one one.
+Two one one one, we can complete the request from two one one.
+In the last, we can complete the request, two resources are fine, then this will be zero zero two.
+All processes are complete, yes, all processes are complete, that is no deadlock.
+If two or three processes were saved, that is deadlock, whatever was saved, that is deadlock.
+Now, this is a type of question, if n number of processes are needed for such maximum resources,
+then minimum total is not deadlock in the system.
+So you will do it, and one process is required for such a minimum, that is one less than that.
+Every process is given to R minus 1 R minus 1, so much more than that, so much deadlock will happen, because every process will wait for one.
+If we had one extra resource, then it would not be deadlock.
+Minimum, you should be required for such resources, so much deadlock.
+There are many questions about this.
+Every process, as much as the maximum requirement is minus 1, give each one, do all the same, it is possible for such resources.
+If one additional is done, then it is not deadlock.
+Okay, let's get back to the question.
+We have done deadlock, we have also done a tick, so how will we recover from deadlock?
+So there are two options, or if the system operator says that the user is deadlocked, then check the process, what to do.
+Or if we terminate the process, the OS will also scale the process, until the deadlock is removed.
+Or if the other process is given to the resources, then the other process will be increased, and the deadlock is removed.
+There are some solutions, but practically today, the operating systems in the world, they do not use any solution in all OS.
+Neither didlock avoidance, nor prevention, nor didlock detection.
+They think that the deadlock will never happen.
+And if the user is dead, then it is possible that the entire process is deadlocked, or if the other one is deadlocked, then the other two processes are done.
+So if the other two processes are done, then the other two processes are done.
+Or if the other one is one by one, then the other one is one by one.
+So that the processes are done, and if the other two processes are done, then the other two processes are done.
+This is the second fund of the process termination.
+Next is memory management.
+One second, one minute, I have forgotten the bottle of water, one minute.
+This is the second fund of the process termination.
+The second fund of the process termination.
+The second fund of the process termination.
+due to all the fullings of a programme in memory.
+go forward.
+Let's go.
+What is memory management?
+The operating system is a module that doesn't allocate the memory process.
+The completed process takes the memory to be allocated to the DL of D.
+And the other protects the memory that the P1 process is given to the memory.
+It will access it.
+The other process doesn't allow the allocation.
+We want the memory management operating system to be used
+to utilize the maximum space.
+The goal is to run more and more processes that are limited to the memory.
+This is the main work of OS.
+The process of memory management is two types of storage.
+The continuous process should be kept together.
+The non-continuous process can be kept in different places in the world.
+This is the two types of storage.
+The continuous process is two types of storage.
+The fixed partition memory management technique.
+The variable partition memory management.
+You can leave this.
+I don't want to do that.
+Because this is not work.
+It is not work.
+The non-continuous process is two pages and segmentation.
+The work that is being done is the pages.
+The solution is the same.
+And the most important part is the pages.
+Okay?
+I will give the fixed partition work to the non-continuous.
+I will not give them the details.
+What is the non-continuous process?
+The main memory is not stored in the RAM.
+So, it stays in the box.
+How to make a box?
+If you make a box of the same size or content,
+then it will be called a Paging.
+If you make a box of a same size,
+then it will be a logical part.
+So, the size is variable.
+The segmentation.
+So, if you go to the Paging,
+you will divide the process into equal size of memory.
+In equal size of parts, we divide it into parts.
+So, what do we do in Paging?
+The process we will do,
+we will use the memory management technique.
+So, before that, we will make the partition of the process equal size.
+Each equal size partition will be called a page.
+Then, the page will be kept in the RAM,
+different slots.
+So, the size of the page, we have made,
+all the rows of the same size are stored in the RAM.
+The frames will be stored in the RAM,
+randomly,
+because the frame will be stored in the scatter form.
+The frame will not be stored in the same sequence.
+Okay, so, the process is divided into several parts.
+The pages are made in the main memory.
+The frame will be stored in the frame of the page.
+The problem is that the operating system
+will have to track down the process of which frame is stored in the frame.
+So, there is a list of tables for which a page table is maintained.
+The table is called the page table,
+which is stored in the main memory of the process.
+Okay, so,
+the page table is used to map a process,
+page to physical frames.
+So, we take a small example of the page,
+we have this main memory,
+which is the size of the varabar,
+8 frames are made in 0,1,2,3,4,5,6,7,
+8 frames is made in the main memory,
+we have made a book,
+and the process that came out of it,
+which is stored in it,
+is made in 4 pages.
+Page 0,1,2 and 3.
+Now, when the storage is done,
+the memory management technique has stored the page 0 here.
+Page 1 is stored here.
+Page 2 is stored here,
+and Page 3 is stored here.
+Now, the page where the storage is stored,
+will be a page table for that.
+Now, we have to enter the page table,
+which is a page for each page,
+if there are 4 pages,
+then there are 8,
+so, here we don't write,
+number of entries in Page table.
+It is equal to number of pages in process.
+The pages in the process are in the same page table.
+Okay, now, what we have to do here?
+Where the page is stored?
+Where the page 0 is stored?
+Where the page 1 is stored?
+Page 2 is stored in the frame number,
+so, we have written the frame number in the page table.
+Page 3 is stored in the frame number 6,
+where the page number 3 is stored?
+Page 0 is stored in the frame number,
+so, here, what is stored in this page table?
+There is a frame number stored,
+and some extra bits are being stored for protection,
+etc.
+We have to store the frame number.
+The frame number will remain,
+because,
+where the page of the page is stored,
+we will find out from the page table.
+Okay, now, the page that is stored in the frame number,
+contains all the bytes in it.
+When the CPU requests,
+then, the page is not fully stored,
+and the page must be stored in each of the bytes.
+So, what is the actual CPU generated in the actual, logical address?
+What is the general address?
+Generates the logical address.
+What is the logical address in the logical address?
+There are two information coming out,
+and the last two information coming out,
+comes in the left,
+the page number, and in the right,
+D is byte number.
+Which byte is the page?
+Page number 1,
+which byte, which byte, which byte, which byte, which byte, which byte,
+which is the general address of the CPU,
+which is the two information coming out,
+page number and offset D.
+Okay, the page number,
+is the page that is stored in the frame number,
+how will we find out?
+Page table.
+So, the page that is stored in the frame number,
+we will search.
+The frame that we will find,
+is the entire page of the frame.
+I don't want the page to be fully stored.
+In one page, it is a very big content,
+2-kilow byte.
+All of them should not be together.
+I have an idea, which byte, which one is the one,
+which byte, which byte, which byte, which,
+which is the one, which, which,
+which, which, which, which, which, which,
+which, which, it jardice,
+In the page table, we have found the F, we have added D, as it is, we have got the physical address, which we will search in the main memory.
+So, the logical address, we will divide it in two parts, P and D, we will divide it in two parts, F frame number and D.
+The size of the page is always equal to the frame size, so if we have 10 bits in D, then we will have 10 bits in 10 bits.
+So many numbers of bits, we will not find out.
+This is the size of the page, if we have 16 bytes in one page, then we will have 4 bits in every byte.
+If the size of the page is 32 bytes, then we have 2 power 10 to 10 bits.
+If the size of the page is 2, then we have 11 bits.
+This is the log of page size, it is in D.
+Let's solve the equations.
+The page memory system is with the logical address of 27 bits and the physical address of 36 bits.
+The physical address of 27 bits is the physical address of 36 bits.
+The physical address of 27 bits is the physical address of 36 bits and the physical address of 36 bits.
+The same page size of the page is equal to the size of the page size, so this is 2 kWh total 11 bytes.
+So, how much will be in D?
+If the size of the page is 11 bits, then we will have 25 bits in D.
+The page is offset, the byte is offset, and the size of the page is 11 bits.
+If the size of the page is 16 bits, then you can save the size of 16 bits in the main memory of 16 bits.
+Similarly, if the size of the page is 25 bits, then the size of the page is 22 bits.
+What is the size of the page table?
+The entry of the page table is 1.
+If the size of the page is very good, then the size of the page is not good.
+So, the size of the page table is 1.
+The size of the page table is 1.
+The size of the page is so much that the pages are so much.
+The size of the page table is the number of pages multiplied by 1.
+The size of the page table is the number of pages in process.
+Multiply by 1 page table's entry size.
+If you are in the question, then you will be directly mentioned or you will be able to get it.
+So, what is the size of the page table for this example?
+How many pages are in process in 2016?
+For each page, the size of the page table is 1.
+The size of the page table is 4.
+Multiply by 4.
+How much is the size of the page table?
+How much is the size of the page table?
+The size of the page table is 22 bits.
+If the page table is not given to the last line, then what do I do?
+How much is the size of the page table?
+This is the size of the page table.
+If the page table is not given to the page table, then I am using it.
+Okay?
+I am using it.
+Okay?
+Okay.
+Welcome to this question.
+The concept clear, with PYQ, is not getting to be done.
+Practice, the more you will get to practice, the more you will get to practice.
+Thank you.
+To stand up, I will learn the details of the data.
+I will get 64 MB of physical.
+64 is 2 power 6, 2 power 20.
+2 is 2 power 26.
+64 MB of physical.
+64 is 2 power 6, 2 power 20.
+2 power 26.
+The physical address of the page is 26 bits.
+The virtual value of the page is 4 kW.
+The size of the page table is approximately 6.
+Make the format of the physical address of the page table.
+The logical address is POD.
+4 is 2 power 2, k is 2 power 10.
+Total 12 to 12 bytes.
+The D of 12 bits is 5, 20 bits.
+Physical address F and D 12 bits.
+From 26 to 14 bits.
+The size of the page table will be enough.
+The number of pages will be 20 bits.
+Healthy digital
+will be approximately 2 megabytes which is option
+its equals to 1うわいすテマ century
+if you want to keep the landscape in solid
+andpped code
+this acting time
+dividers
+do a
+You will access the page table once, which is in the main memory, and no option will be kept in other places.
+So that the address is translated from logical to physical address.
+And then you will get content to access the next time.
+For the page table, you will get a main memory of 2 times.
+It is a very important thing to get a main memory of 2 times.
+To solve this, we have installed a TLB Translation look aside buffer, hardware,
+which will be used as a cache, which will be kept in some page table entries.
+There will be no content of the process, only the page table will be taken and not kept in the entire page table.
+If the page table is not kept in the same way, then it will be kept in the same way.
+If the page table is kept in some content, then what will happen?
+We will get a translation of the page table in a less time.
+If the translation is also hidden in the TLB, then we will have to access the main memory once again.
+If the page table is in TLB, then we will have to access the main memory from the translation table.
+If the TLB is used in this case, then you will get a frame number.
+Then you will get a main memory from the physical address.
+If the TLB is in TLB, then you will have to access the main memory from the page table.
+Then you will get a frame number from the physical address.
+In this case, the frame number will be taken in the same way.
+When the time of the TLB is hit, then the time of the TLB is hit.
+If the frame number is missed, then the time of the TLB is hit.
+Then the time of the TLB is hit.
+You can reduce the time of the TLB and the time of the TLB is hit every time.
+If the frame number is missed, then the time of the TLB is hit every time.
+This formula will be the same answer.
+Don't worry.
+What happened?
+The TLB is also in mapping, like in our cache.
+If the TLB mapping is fully associated with us, then the logical address will be given to you.
+You will divide it in the tag and offset.
+If the TLB is directly mapped, then the logical address will be given to you.
+First, you will be given a TLB and then you will be given a TLB.
+You will be given a TLB and then you will be given a TLB and then you will be given a TLB.
+If the TLB is in 16 entries, then you can keep the TLB in 266 entries.
+Then the time of the TLB will be given to you.
+And if the TLB is fully associated with you, then the logical address will be given to you.
+If the TLB is fully associated with you, then what will happen?
+You will divide the T and D in the logical address.
+You will be given a TLB and then you will be given a TLB and then you will be given a TLB.
+If you do this in cache, then you will have to do this in the same way.
+In cache memory, you can also use the byte of the TLB and you can also use the same TLB.
+Let's solve this question quickly.
+It is a gate question of 2015.
+How will we do it?
+We have already divided the TLB in two parts.
+The top of the page is the top of the page.
+The TLB is the top of the page.
+The TLB is the top of the page.
+The TLB is the top of the page.
+The TLB is the top of the page.
+The TLB is the top of the page.
+The TLB is the top of the page.
+If you do not have a page, then you can use multi-level paging.
+If you do not have a page, then you can use multi-level paging.
+If you do not have a page, then you can use multi-level paging.
+If you do not have a page, then you can use multi-level paging.
+If you do not have a page, then you can use multi-level paging.
+Paging is applied on page table.
+If you do not have a page, then you can use multi-level paging.
+Paging is applied on page table.
+Paging is applied on page table.
+What is the benefit of this?
+Let's take a look at the space.
+The Paging is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The first thing you have to do is to divide the page table into a page.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+If you do not have a page, then you can use multi-level paging.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+The P1P2 is applied on the P1P2.
+I have to level 3.
+I have to level 3.
+I have to level 3.
+I have to level 2.
+If I have to level 2.
+I will get 10.
+Why did you come?
+Because you are getting more entry in outer table.
+We will discuss the reason for that.
+But if this question comes out that
+you will get higher beat.
+The question would have come later.
+So don't be confused.
+If you want to search in P1,
+then you can search for it.
+Number of wits to search in outer page table.
+10 bits.
+If you have fixed the level, then search in outer most page table.
+We will keep it a bit longer.
+So we will not worry.
+Okay, understood?
+Okay, let's go.
+Now, the second question comes,
+If the entire entire outer page table is fit in exactly one page.
+All the pages on the level have been divided by 4-4 bits.
+There is a logical address.
+We have fixed the level of 2 pages.
+We do not know the size of the page.
+The size of the page is 2K power X.
+So number of page table entry.
+What we will do on the page?
+The size of the page divided by 1 entry size 2K power X minus 2.
+4 is 2K power 2.
+So if there is 4 bytes, then 2 bits less.
+Now see, we will try to make a small equation.
+26 bits of logical address.
+Exactly 2 P1 and P2 will be.
+And for D, for D, in logical address,
+If we have the size of the page 2K power X,
+If we have the size of the page 2K power X,
+then how many of us will get in D?
+X bits will get in D.
+So D has come in X.
+P1 will come in P2 minus 2.
+2 bit less.
+Why?
+Because there is a 4-4 byte page table entry.
+So here, 2 bit less.
+We will get all the information.
+So what is the equation?
+X minus 2 plus X minus 2 plus X is equal to 26 bits.
+X, X, X, X, 3X will come here.
+If 2 or 2 minus 4 will come here, then plus 4.
+So 3X is equal to
+30X value 10.
+If the value of X is 10 bit,
+What is the size of the page?
+2K power.
+10 byte, which is 1KB.
+This is a type of equation.
+So in 2013, only related equation came.
+So there was no NIT.
+So this is the equation as it is.
+Let's see the option.
+This is the equation.
+The entry of the page table is 32 bit which is 4 byte.
+Do you solve it?
+How will we get it?
+How to write 56 bit virtual address from E2.
+The RGV delIVE boundary of opacity minus chord voltage.
+How will we change literature of 56 bit virtual address?
+How will we do?
+With the word of 46 bit
+This is
+The x will be in t
+The size of the page
+If we have x in 2K power
+x is the number of pages
+1 entry is 4 times 4
+So every one is
+Searching x minus 2 bit
+2K power 2 is 4
+How many levels are there?
+3 level
+So p1, p2, p3 will be 3
+x minus 2
+x minus 2
+and x minus 2
+How will we make equation?
+3 times x minus 2
+plus x is equal to 46
+This will be 3x plus 1 4x
+minus 6 is equal to 46
+Here will be 52x value
+13th level
+How much the size of the page
+2K power 13 by 2
+8K power
+Solve the ss equation
+Size of the page table across all levels
+How much the size of the page table will be on all levels?
+Number of pages
+2 store
+Outer page table
+How much will be 1?
+Inner page table
+If there are 2 levels
+2K power p1
+How much will be 1?
+2K power p1
+2
+How much will be total?
+3 store
+3 page
+How much will be total?
+2K power 10 by 1
+Page
+How much will be the size of the page table?
+3 page
+How much will be total?
+3 kg
+We have solved many questions like this
+Inner break
+After 8.30
+It will be over
+Now it is 6.30
+So let us start
+2 hours
+If there is 3 levels
+If there is 3 levels
+Then the size of the page will be 2K power 11 by 2
+Which is 2K
+1 is 2K
+Now we will see
+If we talk about number of pages
+How much will be in the outer page table?
+1 is 1
+How much will be in the middle level of pages?
+2K power p1
+2K power p1
+2
+How much will be in the inner most third level?
+2K power p1
+2K power p2
+2K power p1
+2K power p2
+1234
+How much will be in total?
+1234
+How much will be in the middle level of pages?
+1.5 kg
+How much will be in total?
+How much will be in total?
+1237 pages
+2 kg
+1234
+1234
+1234
+1234
+1234
+1234
+1234
+1234
+1234
+1234
+Then we will see the segmentation
+In segmentation, we do not divide the size of the process
+In the equal size, we divide the size of the variable
+But the variable size, why?
+If you divide the process like this, its stack will go in one segment
+Its heap will go in one segment
+If the code of the process becomes 4 different segments,
+In that case, I will divide the size of the segment in every segment
+Logically, divide the partition segment and the physical memory in the segment
+Now because the process is not divided in the same size,
+then pages, like the frame we made, can not make frames
+You can not make frames here
+You have to divide the different segments of the process
+In this example, we divide the size of the process
+Now we divide the different segments
+This is the main memory
+We made 4 segments,
+1, 2 and 3
+Let's consider the segment number 2
+1, 0, 0, 3, 1, 1, 2, 3
+So, different segments can be placed in different places
+Which segment is placed in the starting address?
+For this, we will keep the table of the segment
+In this segment table, we will keep two information
+Who is the one?
+1 is a base and a limit
+What will happen in the base?
+What will happen in the starting address?
+What will happen in the limit?
+The information will be that which segment is the size of the segment?
+Because when the logical address is generated,
+s or d, then which one is the one with the size of the maximum possible segment?
+S-maximum segment
+The size of the segment, you have decided on the maximum
+The maximum segment size of the segment is 12 bytes.
+This is not a big segment.
+So, 12 bit is D.
+Now, we don't need to add D to 12 bit.
+Because the segment is small.
+But D will also add 12 bit.
+In the logical address, D will add 12 bit.
+But for the segment, 12 bit.
+If the D is bigger than the segment size, then it will be a big problem.
+The CPU has not the size of the segment, then it will be a big problem.
+So, whenever the logical address is generated, then we search in the segment table,
+and the information of the limit is the size of the segment.
+The D is the small one.
+If not, then the software will have a trap with the operating system.
+The segment is the segment fault of the addressing error.
+The address generated is wrong.
+And if the value of T is small than the limit, then it means that the D in the base will be connected to you.
+You will get a physical address.
+You can search in the main memory of this physical address.
+Okay.
+Next concept is our virtual memory.
+Virtual memory is an operating system feature, which is said that if the process is big,
+then it can run the main memory size.
+How?
+We can keep the pages in the main memory, and we will keep the rest of the pages in the disk.
+And when the CPU is going to demand the code, then we will demand the page.
+If we demand the page, then we will not get the main memory.
+So, we have 8 pages in the process.
+The main memory is not the place to keep the page in the main memory.
+It is the place to keep 4 frames in the physical memory.
+You can keep 4 pages in the main memory.
+But the process has 8 pages.
+The whole process is not necessary in the main memory.
+This is the concept of the virtual memory.
+The operating system says that if you execute the process,
+the pages of the process that you have, we will keep them in the main memory.
+When you demand the page, we will provide them with the information.
+You will execute them normally.
+You can keep 4 pages in the main memory.
+The page is 4, the page number 1 is 2, the page number 0 is 5,
+keep 4 pages in the frame 0, 1, 2, 3.
+What will happen?
+The page is 0 available in the table.
+Yes, you know, yes, there is no available on the frame 2.
+There is no available on the frame 2.
+There is no free, there is no free, there is no free.
+There is no free, there is no free.
+So, the 4 pages that are not in the main memory, are not the entry we have done.
+The 4 pages that are not in the main memory, are in the heart disk.
+So that when the CPU is needed,
+the address of the phone will generate, which is not available in the main memory.
+Then, the OS will give them the free.
+Okay?
+Sir, if you do not interact with the user,
+then the problem will happen, that we will talk about it.
+And when the time is less,
+and things are more important,
+I would not like to engage you in a long time,
+so that you can do your own practice and revision in a time when you are a child.
+You need to do a repractice,
+that is very important.
+So, the 4 pages that are not in the main memory,
+will be kept in the disk,
+and which one will be kept in the OS?
+Now, how will we find out,
+that this entry is empty and valid?
+For this, there is a valid invalid bit in the page table.
+The entry is empty,
+there is a valid invalid bit in front of it,
+and the entry is valid invalid in front of it.
+Another concept comes from here,
+which we call page fault.
+It is not here.
+What is the page fault?
+Manlo CPU generated a logical address,
+which is not in the page main memory.
+When,
+demanded page,
+not in main memory.
+What will we say?
+Page fault.
+Manlo CPU generated a logical address,
+which has a page number 1.
+Now, the page number 1 is not in the main memory,
+not in the page table entry,
+but in the main memory.
+The page fault will be kept in the operating system,
+and the page will be kept in the main memory.
+The page will be kept in the main memory,
+and if the page is empty,
+then there is no page,
+then we will have to replace it.
+This is dependent on the page replacement algorithm.
+So, what will happen?
+The request of Manlo page number 1 is,
+the request of Manlo page number 1 will be kept in the main memory,
+so the request of Manlo page 4 will be kept in the main memory.
+So, we will have to include the page 4 back here.
+Now, if the page 4 is replaced,
+then the page table's entry will be updated,
+and we will have to do what?
+Page 4 is kept in the main memory,
+so the value of this add-in is invalid.
+The page 1 is in the main memory,
+so the entry was added in the main memory,
+and it is in the main memory,
+so the page number 0 is kept in the main memory,
+and the page 4 is in the main memory,
+We have invalidated the entry in the page 4.
+What happened to the page that you have requested?
+If you don't get it, the page vault is the operating system of the page vault.
+The time you have to serve the page vault is the time to serve the page vault.
+Now, we have to replace the page vault.
+Now, we have to replace the page vault.
+The page vault is the criteria of the page vault.
+Now, we have to replace the page vault.
+We have many algorithms.
+We have FIFO, Optimal, LRU, and Maximum questions.
+Now, we have to remove them.
+We have a M-RU, most recently used.
+M-RU is for 5 algorithms.
+Let's look at one by one.
+FIFO is that you should replace the page vault.
+The first thing you should replace is the third frame.
+The third frame is that you can also give it as a pure demand page.
+The second frame is that you don't have a single frame in your memory.
+Okay?
+The page is the reference sequence.
+Next.
+The first page number 1 is the page vault.
+We have taken one frame in RAM.
+The page vault is not in the main memory.
+We have taken it in the empty frame.
+The page vault is not in the main memory.
+The third frame is full.
+The page number 4 is in the main memory.
+No.
+The page vault is in the main memory.
+We have to replace the page 2 of the page 1.
+The first frame is in the main memory.
+The entry was in the main memory.
+The second frame is in the main memory.
+The second frame is in the main memory.
+The first frame is in the main thoughts.
+Let's emphasize the three frames.
+The third Frame is in the main memory.
+I mentioned it before but the third frame doesn't go on in the same place.
+Now, we will replace 4 for 5.
+1 page vault is not hit.
+2 is already hit.
+3 page vault is hit.
+We have taken 5 here.
+2 is hit here.
+3 is hit here.
+4 page vault is hit.
+3 is hit here.
+2 is hit here.
+5 is not hit here.
+5 is already hit.
+4 is hit here.
+2, 3, 4, 5, 6, 7, 8, 9.
+9 is hit here.
+9 is hit here.
+9 is hit here.
+9 is hit here.
+9 is hit here.
+9.9 is the total 12.9 out of 12 page of the page.
+If you ask in percentage, then multiply it by 100.
+And if page hit rate is...
+...3 is the total of 12.
+Page hit rate is here. If you ask in percentage, then convert it into percentage.
+It will happen.
+Page hit rate is here. If you ask in percentage, then convert it into percentage.
+If you ask in percentage, then convert it into percentage.
+If you ask in percentage, then convert it into percentage.
+Now, the one that is in the page, the bellies are normally...
+...what is the bellies normally?
+It is not always the same. For some page reference sequence.
+For some page reference sequence, for some page reference sequence,
+...increasing number of pages or frames, may increase number of page font.
+Page font is not as good as in percentage.
+If we give more frames, then the process of the process is 4.
+Page font should remain 9.
+Because in percentage, we can keep 4 frames on the frame.
+But this sequence is like this. If you place 4 frames, then the number of page font will increase.
+It should be lower. Generally, it should be lower.
+But here, in this sequence, it is like this.
+In the page reference sequence, there is something like this.
+In which if you place more frames, then the page font will be more.
+What will we say?
+Bellies are normally. This is only in the case of the number of page font.
+Then, your advantage is disadvantage.
+Simple. Easy to implement.
+You can implement through you.
+Page when you have come to Main Memory.
+Low overhead means, it will take less time to check which page to replace.
+Page font is very good.
+Why? Because it is not considered that when you have used page when you have used it.
+When you have used it, then it is not considered that when you have used it.
+The first thing you have come to know is that page is not that good.
+Page is similar to CPU.
+Bellies are normally placed in this.
+Then, it is optimal policy.
+We see in the optimal policy, we check the future.
+In the future, page will be used in the text.
+It will be used in many parts.
+If you do not have any request for a page in the future,
+then the type breaker will be used before the process of the page is removed.
+Let us see.
+One is pasted.
+Two is pasted.
+We will fill the frame without replacement.
+We have kept three pages on the page.
+The remaining request will be pasted.
+We will remove it.
+From 1 to 3, we will see the future of the one's request.
+Two is missing.
+In the parts on the two matches, we are going to remove it from time to time.
+Save yours needs ramp 2 part by time.
+Check out the 31 of 4.
+Now, you needn't pozy to solve a false request.
+Check from 1 to 4.
+κι pass.
+It is there.
+From r rule base, it has been racing for almost 4 days.
+The first step is pasted until the notice of the previous page,
+So no page fault will come.
+See 1, 2, 3, 4, 5, 6, 7,
+Number of page fault only comes with only 7.
+It's less.
+This is a very good word.
+But we cannot implement it again.
+Requires future knowledge of the program.
+So we cannot implement it practically.
+But if we know about the future program,
+then we cannot implement it easily.
+If possible, we can know the future program.
+We can implement simple data structure.
+But it is very efficient.
+Because it gives you minimum number of page fault.
+Sometimes, there is no reason for it to be given.
+There is no concept algorithm.
+And there is a direct mention.
+This is the number of frame.
+All the empty.
+This is the page reference sequence.
+Tell us how many pages to fulfill this.
+And how many page fault will it take?
+The algorithm tells us that the count of the page fault is asked.
+If you ask the minimum, then say optimal.
+What will you get from the optimal?
+Minimum page fault.
+Disadvantage time consuming.
+Why?
+When will you check all the pages of the future?
+And then what to replace one page?
+It takes more time to find.
+So, what to replace the page of the time consuming?
+Let us see the future.
+Let us see the past.
+The page that has been used for a long time is the LRU policy.
+The recent use of the LRU policy is the past.
+It is the past.
+It is the past.
+It is the past.
+What do you say?
+Same example.
+1, 2, 3.
+We will do the same with the page fault.
+And there is no replacement.
+For the more, the page fault is not in the main memory.
+We will replace the page fault.
+The two that have been used for the past.
+The one that has been used for a long time is the HATADO.
+We will take the four of the HATADO.
+The one that has been used for a long time is the HATADO.
+We will check the four and three that have been used for a long time.
+The three of us used the HATADO for a long time.
+The two that have been used to the past.
+The two that have been used for one and four are the two that have been used for a long time.
+We will replace the RUKHA® how to be used by the two that has been used for a long time.
+We will try to represent the RUKHA® how to be used by the two that are used for a long time.
+Who will then use this?
+And we will choose the HATADO after these semi-maintenance use.
+Another example of how to replace the RUKHA® how to be used for a long time.
+Now we will do the followup with a comprehensive advice information.
+The key請 you to consider the third of the HATADO уш.
+Now we have to replace the 5 using the same amount of the 1 or 2.
+For the 4 we have to replace the 2 or 3 using the same amount of the 1.
+4 will be used for the 5 using the same amount of the 1.
+The 5 will not be in the main memory, 3 and 4 will be used for the 4 using the same amount of the 2.
+The 5 will be used for the 5 using the same amount of the 1.
+10 will be used for the 5 using the same amount of the 1.
+The 5 will be used for the 5 using the same amount of the 1.
+The 5 will be used for the 5 using the same amount of the 1.
+The 5 will be used for the 5 using the same amount of the 1.
+LRU is efficient, it is not a valid and normally not.
+The 5 will be used for the 5 using the same amount of the 1.
+The 5 will be used for the 5 using the same amount of the 1.
+The 5 will be used for the 5 using the same amount of the 1.
+The 5 will be used for the 5 using the same amount of the 1.
+The 5 will be used for the 5 using the same amount of the 1.
+The 5 will be used for the 5 using the same amount of the 1.
+The 5 will be used for the 5 using the same amount of the 1.
+For the 4th, I have just got 3, I have to remove it.
+For the 5th, I have to remove 4, because I have to remove it.
+What happens in this, every frame is filled.
+Then the last frame is filled with replacement.
+Because the page is filled with replacement.
+So, the end-minus 1 page of this means that the end-minus 1 page is filled with replacement.
+So, this algorithm does not come in work.
+It is a very bad algorithm.
+You will see the last frame is filled with replacement.
+The first two pages of this is filled with replacement.
+So, this is practically not a good performance.
+Then, the MRE is most recently used.
+It is said that the recent use of this is not used.
+It is not used.
+1, 2, 3 is not used.
+Without any replacement, the 4 is filled with replacement.
+For the 4, I have to remove 3 pages of this in the latest use.
+I did not come to page 1 or 2, but I did not come to page 1 or 2.
+I will come to page 5.
+What is the use of this page of this is the latest use of this page?
+I have to remove it.
+Now, look.
+The last page was filled with 4 pages in the main memory.
+But, after that, CPU has used 1, 2, 2.
+So, the latest one is used.
+I have to remove it.
+I have to remove it.
+1, no page fault.
+2, no page fault.
+I have to remove it.
+3, no page fault.
+It will be completely removed.
+I have to remove it.
+No page fault for the 4, no page fault.
+Okay.
+The form of the effective memory access time.
+It is different in different places.
+If the page fault is included,
+we will consider the rate of the page fault.
+P.
+So, what will be the form of effective access?
+Look at this.
+The form of the effective memory access time is
+not the page fault.
+So, the memory access time will be given in the equation of the equation.
+The same thing,
+with the out page fault,
+it will be mentioned directly in the equation of the index.
+Plus, if the page fault is the memory access time
+with the page fault,
+it was given in the equation of the gate in 2018.
+This is the formula of the base directly directly.
+It was directly directly.
+Simple substitution.
+Now, in the case of the page fault rate,
+if you use the TLB with the page fault,
+if you have the TLB,
+then what will be the effective memory access time in that case?
+With TLB and page fault.
+So, look at this.
+First of all,
+if you hit the TLB,
+then the TLB of the TLB will be given in the equation of the TLB.
+To check,
+you got the physical address.
+You got the physical address.
+Then you will go to the main memory,
+you will get content,
+because if you have hit the TLB and the physical address,
+then the page is in the main memory.
+Then the page fault cannot be given in that case.
+The TLB hit means that the page fault cannot be given in that case.
+Plus,
+if you have missed the TLB,
+if you have missed the TLB,
+then first of all,
+you have checked the TLB of the TLB,
+then you have missed the TLB,
+then you have access to the main memory,
+you have access to the main memory,
+now you will get two options,
+page hit or fault.
+If the page hit,
+1-p,
+then you have to get content in the main memory,
+because the physical address is in the main memory.
+But if you have found out that the page is fault,
+then you will have to get the service time of the page fault.
+You will also have to mention it in the question.
+Now,
+the service time of the page fault,
+is the time to get the page of the page,
+plus the time to update the page table.
+But here, there is another case,
+the Dirty Bit.
+If the Dirty Bit is used,
+then you don't need the page of the rideback.
+But if the Dirty page is the rideback,
+then the page fault is the same as the page table.
+There are two different categories,
+for the Dirty page,
+non-Dirty page.
+If you talk about the non-Dirty page,
+then this is the page,
+swap time,
+1 time,
+plus the page table update time.
+But if the Dirty page is,
+to replace the Dirty page,
+then this page swap time will be twice.
+Because once the Dirty page is out,
+then the page will be again,
+to replace the Dirty page.
+And then the page table update will be in the main memory.
+In this,
+there is a 2,000,
+2012,
+and 2012,
+So that if 30 Bitcoin drops fade
+and just create 20 three blocks.
+Then the tied Acefa bit andゲ��도록,
+then the coin and the coin will Flame once.
+And the coin should KASSIDE along with Plaste.
+So what is this 2,000,
+What is the global allocation of local versus global?
+Local allocation is said
+If there is a page fault, then the process page can replace
+Own pages. Only pages can replace the process.
+If P1 comes, then
+If any process will replace the pages of its own process,
+Not the other pages of the other process.
+Global allocation is said that if a process for P1 comes
+There is a page in its 4 pages in memory, then
+Replace the other page in the second process.
+Operating system can be done in global allocation.
+If the page of the process is due to the fault, then
+Who has replaced the page of the same process?
+Local always
+If the other page of the other process can replace the same.
+What is the fresh?
+What is the need for the page?
+What is the need for the page?
+It can be removed.
+Fresh is important.
+Let us tell you what was the need for it.
+When you have a degree of multi programming
+Means the number of processes in main memory
+Then what happens in the beginning?
+The CPU utilization becomes a big one.
+It increases because the CPU is used properly.
+But after a level, the CPU utilization is not good.
+Because it happens that
+If the process is in the main memory, then the page fault rate will increase.
+Because if the page of the process is in the main memory, then the page fault is much higher.
+If the page fault is much higher, then the execution of the process is less and
+The CPU is less in the case of CPU utilization.
+The CPU utilization becomes less.
+It seems that the CPU utilization is better.
+If I make more process, then the CPU utilization will increase.
+Now the long time the CPU utilization will be easier.
+The CPU will increase from the same time because
+It increases the CPU utilization and less.
+It increases and increases and increases.
+This is our last chapter, we will give maximum of 1 more hour and finish this last chapter.
+So that we don't waste time to complete the entire course.
+So once you write all the formulas, in the last version, you will get a formula revision series, which will give you a live formula review of all the courses.
+And then you will share that PDF.
+So that you can start the review for the first exam, so that you can get all the formulas together.
+Right?
+Let's start the review from the formula.
+The file you are storing in your disk, collection of named records, or text file, ppt file, pdf file, movie file, image file.
+You can also store the file in your secondary memory.
+You can store the file in the folder, which is your directory.
+When you store the file, the operating system is a file system module, which keeps the attribute of every file so that the file can control it.
+What was the directory of collection of files, which we know as folder.
+The folder is called as good file directory.
+The file directory contains all the files, so you can also store the entire directory in the folder.
+You can not find the app on YouTube, you can find the app on YouTube.
+What is the file system?
+The operating system module is the file that manages the file, which file is in the disk, where is the stored, how much size is it,
+how to access it from here.
+If you want to open a file for any process, then you have permission to do so.
+All these files are related to the file, which is the same thing, what does the file system module do?
+The file and related file system is controlled by the managers and the control.
+Now, there is no sense of its need, it is not made of file structure, it is the block of the disk.
+When you first install an operating system on the disk, like you have installed an OS, made a C drive and put OS on it.
+So, when you install an operating system, what happens?
+The file system of your OS is given a virtual block number,
+in which you can do such block number, 0, 1, 2, 3, 4 and so on.
+Why does it do so?
+So that the particular OS file system is known, that I have installed a file, where is it stored?
+So, the structure of the disk, you read in the COA, that there are many sectors, such as the track, and the surfaces,
+so you just consider a sector, that there is a sector, which gives a block number on the disk,
+the operating system's file system module.
+What happens to it?
+It will be the block of the disk, which is the block of the OS, that is the block of the OS,
+which is the block of the OS, which is the block of some file, which is the block of the OS,
+which is the file system, and it will give 4 blocks to it.
+So, it will be known, where is the file system, where is the file stored,
+when you have to access it, the file will be, so it will be installed here,
+and it will be installed here.
+So, what happens?
+All the blocks come in this disk,
+we consider the number of blocks, inside the disk, 2K power 30.
+So, to make the block numbering, we need to make a number of 30-30 bits.
+Right?
+CHS is the one, the CHS, which is the physical address,
+physical address.
+It is the work of the COA.
+The operating system doesn't keep the CHS address,
+it keeps the sequence number of the 2K power 30.
+The operating system, which keeps the sequence number,
+it goes to the disk, it goes to the form of the CHS,
+you saw in the COA, and then the CHS, which is accessed by the cell phone,
+in the surface of that particular cylinder,
+the hardware,
+that is, the file.
+Now, here is the file allocation method,
+if a new file has arrived,
+then how the file will be installed on the disk.
+It is in three ways,
+the link to the contiguous allocation, and the index allocation.
+Theindication of contiguous allocation is that
+you have to restore a file to contiguous.
+So, here is a file of OS.PDF
+So, starting from which block
+How many number of blocks are in that particular file
+Tell me, from number 4
+From number 4 to 5 block
+So, 5 block
+1, 2, 3, 4, 5
+So, 5 block is stored in that particular file
+In the current location, the file will always be stored on the sequential block
+So, 5 block is stored from starting 4 to 5 block
+This is a table
+The file location table
+The operating system
+The module is the file system
+It is the same thing that the block is stored on the block
+It is the same table
+It is the same table
+Now, this is the external fragmentation
+What does it mean?
+If we want to make a file
+We need 4 blocks
+So, we need to have 3 blocks
+The rest is occupied
+So, we need to have 3 blocks
+If we want to make a file, but it is not the same thing, then it will not be the file
+It is called external fragmentation
+What is the internal fragmentation?
+We have a block size of 11kB
+My file size is 4.8kB
+So, exactly 5kB
+But, 0.2kB space will be wasted
+2,3,4 and 0.8
+This space can not be given to any other file in this block
+Because, there will be no part of this particular block
+So, there will be no other file
+So, this point
+If you have used 0.2, what has gone?
+The wastage, which is internal fragmentation
+So, here, internal and external fragmentation are both
+Internal fragmentation is in every single block
+But, external fragmentation is a big problem
+If you increase the file size, then the issue of flexibility
+If you try to increase the file size here
+And edit it and you need 2 blocks
+If you do not have this, then you will be unable to block the sequence
+Next, you can even access the file in sequence
+You can also go randomly
+Because, if you want to go to the third block in the area
+So, you start from here, 1,2,3, calculate and reach the block number 6
+Now, you will know that the block
+The 6 is the third block present in your file
+So, randomly or sequentially, how can you access the file?
+Then, you come to a linked location
+You have created a file
+Starting from 4
+After that, you continuously put the next file on your 8
+The next file you kept on your 10
+The next file you kept on your 15
+And the next file you kept on your 11
+You have kept the 5 blocks on your 5 blocks
+But, the 5 blocks are not in sequence
+It is linked from the other side
+So, first, second, second, third, third, third
+So, you will get the next file block
+To a pointer
+But, the problem is that the sequential access is also possible
+If I don't reach the last block on the last file, I will get the next file
+I will get the stable
+So, you will see that the sequential access is also possible
+It is not possible for random access
+External fragmentation is broken here
+Because if you want to store the new file, you can also store it
+So, external fragmentation is not there, but the type of access is limited
+It is flexible
+To increase the file size, if you add 2 more blocks in this file,
+You can add the pointer from where you can get the same issue
+Now, what was the advantage of this advertisement?
+The advantage of this advertisement was that
+The type of access was random
+In the sequential, random direct access was possible
+But, these two were the advantages
+In the link, these two were the advantages
+So, the access is not only a sequential, but a direct one
+These two solutions are the indexed allocation
+What is the indexed allocation?
+What is the diagram of the indexed allocation?
+The indexed allocation is that
+Keep a different block
+Keep a different block
+Which you will say index block
+In this index block, you will only write the number of blocks
+You will write the number of blocks
+Where you will keep a file
+You will keep a file in block number 3, 6, 11 and 12
+So, write the number of blocks here
+You will keep a block in block number 3, 6 and 11 and 12
+What is the number of blocks?
+You will use a block from a different angle
+In which you will only keep a block
+You will keep a file in block number
+What is the number of blocks?
+The number of blocks is that
+You will reach the index block directly
+This is the file operating system.PDF
+The index we have kept on block number 4
+Now, you can access block 4 by accessing all the blocks here
+Which file will you keep on the block 3?
+The first block of the file is on block 3
+The second one is on 6 and the third one is on 11
+So, you should have 12
+The file is directly accessable
+The second one is on random access
+The second one is on sequential access
+You will have to add a new block
+You will have to add a new file on 9
+And you will have to add index here
+The third one is on the index
+There is no worry about external fragmentation
+Where you will be able to keep a file in index
+You will have to add index
+So, fragmentation will only be internal
+The file is flexible, you will have to increase the file size
+And the random access will be possible
+If you will access the new block
+You will have to insert the new block
+You will have to insert the new block
+And you will have to insert index here
+And your new block will be inserted
+Okay?
+Then a unique I node type structure is used
+This I node type structure is called
+You have a data structure, I node
+You keep every file
+You keep every file
+What you do if the file is empty
+So, you can keep a block of 4-5 blocks
+You can keep a block of 1 block of 1 block
+And you can keep a thousand entry in that block
+You can keep a thousand in index
+But you kept a 4-4 index because the file is kept on the block
+So, for the 2-5, you need to insert index block
+Now directly block number can be kept here
+Which will say direct pointers
+What will you get from direct pointers?
+What will you get?
+You will get the number of blocks where you will keep the file
+How much do you spend on implementation?
+You cannot keep the file on this file block
+If the file is empty, then you will have a single
+Indirect pointer used, which you will use for 1 level
+You can keep a block of 1 level index
+You can keep a block of 1 level index
+You can keep a block of 1 level index
+You will get the block of 5 blocks
+Your index is your block
+You cannot keep the file in this much
+So, your index will come to you
+Now, you will have a double index pointer
+You have to index 2 level
+You will start from here
+You will get index block
+You will get index blocks from here
+You will get all the blocks of 1 index block
+You will keep the file on the block
+You will get the blocks of the file
+Because you will have to do this
+Because you will have to keep a single level index
+You will have to keep a single level index
+This is a question
+I had come once in 2019
+Index node is unique
+It is 12 direct points
+It is a single indirect, double indirect
+It is a size 4 kilobytes
+It is a size 4 kilobytes
+It is a address of this width
+It is a 4-bite block of this width
+It is a 4-bite block of this width
+To solve the question
+You have to take a single number of indexes
+You can put them in a page
+You can keep the indexes in this block
+What is the size of the block?
+4 kilobytes
+It is a 4-bite block of this block of 1 kilobytes
+You can keep the 2-bite power 10 entries
+If you want to take the maximum file size
+Then what will you do?
+You will use all the possible entries
+You will use 12 direct points
+You will get a disc block of 4 kilobytes
+Then a single indirect
+It is a disc block of this width
+What will you do?
+You will set a block of this handling
+You will charge this size
+You will get a total入 number of blocks
+The contents each index, of these 6 is calledؙ
+These 6-bites tend to be in your place
+If you take a single integer row
+Then you get an out of it
+You will charge it
+For either Chenling or Bloct
+will answer 0.0.
+One last topic is our saving because it is the disk scheduling.
+I am expecting from this topic to know that I am expecting from this topic.
+I am expecting from this topic to know that what can be done by a disk scheduling?
+1 minute.
+It can be done by a disk scheduling.
+I am thinking of the current situation.
+I am not sure if it is a prediction or not.
+It is a very easy topic.
+What is the problem?
+There is a disk in the middle of the disk.
+What is this?
+The disk is rotating and spinning around you.
+Later.
+Now what is the problem?
+It is a drag.
+What do we call the collection of the drag?
+If there are many requests pending on disk,
+1 request pending is 0, 1, 2, 5, 6.
+So which cylinder request is fulfilled?
+Why is it pending?
+Because the disk is slow and the processes are fast and execute.
+So for the disk, it can be used in multiple requests pending.
+So what is the problem with the request of the current?
+So that the disk performance is good.
+The disk performance is good.
+You have to travel far away from the disk.
+You have to learn from it.
+If you go back and go back,
+then the time of learning becomes slow and the performance becomes slow.
+So the number of requests pending is different.
+So let us fulfill the request before which request is fulfilled.
+This is for the disk scheduling.
+I have request arriving for the disk to schedule it.
+Now what is the problem?
+The disk scheduling algorithms are the easiest and most easy topic of the operating system.
+The most tricky question is hardly.
+And the easiest algorithm is to ask.
+As it is a question, FCFS is the first and the first person.
+The request in which the sequence is coming,
+we keep a disk device.
+So let us say, cylinder number 36,
+80, 17, 65, 7, 3, 90.
+You have such requests.
+You have to assume that the disk is 100 cylinders.
+Its number is 0 to 99.
+This is the question mentioned.
+Currently, the red right head is located on the 50th.
+So you will imagine here.
+So if the red right head is located on the 50th,
+you will see the small cylinder and the big cylinder.
+So the request pending is here.
+So whenever you do that,
+you will see that the cylinder number 0 will be 0 to 99.
+The 50th cylinder is currently located on the 50th.
+Many children ask, why do you write in a sorted order?
+I have written, I have written the request pending.
+I have marked the particular disk here.
+The cylinder will be in the sequence number.
+Here 0 is the number, here 1 is the 2,
+so it will not happen.
+If the sequence number is in the sequence,
+I have written the number of the disks.
+Now what?
+I have written 0 to 99.
+The request is 3,7 or what is the request?
+0 to 56 and the 5th is the 6th.
+The 3rd is the 6th.
+The 7th is the 7th.
+The 7th is the 15th and the 65th is the 80th.
+Currently, if I am 50, then I will go from 50 to 50.
+I will go from 50 to 36.
+What is FCFS? Go to 36.
+Go to 36.
+After this service, go to 80.
+From 36 to cylinder number 80, the sequence required is there.
+Go to 80 to 17.
+Go to 16.
+From 65 to 7.
+From 7 to 3.
+You will go to 90.
+You have requested FCFS.
+How to get the question?
+How much is the number of head or cylinder movement?
+Tell me how much cylinder movement is there.
+How much cylinder movement is there?
+From 56 to 36.
+From 36 to 85.
+From 36 to 36.
+From 80 to 17.
+From 63 to 17.
+From 17 to 65.
+From 65 to 65.
+From 65 to 7.
+From 65 to 3.
+From 65 to 32.
+From 32 to 90.
+So, it is going to be 87 head movement.
+So many people are coming.
+So many head movements.
+Didn't I have any calculation mistake?
+Didn't I have any calculation mistake?
+From 34 to 14.
+From 63 to 48.
+From 62 to 62.
+From 80 to 38.
+From 38 to 38.
+From 38 to 38.
+Okay?
+One more question comes.
+Number of direction change.
+Change the head to the right direction.
+36 to 36.
+From 36 to 35.
+From 80 to 35.
+From 70 to 35.
+From 65 to 5.
+From 55 to 35.
+From 55 to 56.
+From 36 to 18.
+From 75 to 7.
+From 65 to 7.
+From 65 to 7.
+From 70 to 3.
+From 65 to 5.
+My question from Thomas Barrett.
+Check the nearest currency from the current location.
+Check the nearest currency from the current location.
+Where is the current read right head?
+Where is the nearest currency from the current location?
+It is at the 46th and 14th distance.
+The 16th and 15th distance.
+It is the 36th distance.
+Check the distance from the current location.
+The 16th and 17th distance.
+It is getting bigger and bigger.
+This is the 47th.
+The 17th and 17th distance.
+The response time will be less because the nearest request can be fulfilled quickly.
+The throughput increases.
+The more requests will be received, the more the road will be to go to the road.
+The disadvantage is that we have to calculate the time of the sequence.
+The time is far from the sequence.
+The time is much longer.
+That is why the performance will come out here.
+The time case.
+The time is short.
+The time is short.
+We have to calculate the time.
+The time is short.
+The time is short.
+The time is short.
+It allows the region jump to the task and get asked for more information.
+We have to calculate whether the time miss or not for the request to take place from the experiences of grammar.
+However,idel mind process Therefore, the time which will go between the Wednesday topic,
+Fermat will come the moment before the test arrives.
+This is the scan elevator.
+This is a very beautiful algorithm.
+My favorite.
+Go straight to the last corner.
+Then go back.
+Then go back.
+Then go back.
+You will fulfill the request.
+56,
+15,
+65,
+18,
+19,
+19,
+See.
+What is the current position?
+50.
+You have to go to the left side of the corner.
+As shown here,
+You should move towards the larger values.
+Go from the right side.
+Go to the larger value side.
+And go to the corner.
+Remember to go to the corner.
+You have to go to the corner.
+After 90,
+No request is needed.
+But you have to go to the corner.
+You have to go to the corner.
+Then go to the corner from the corner.
+Then go to the 2nd round.
+Then go to the corner.
+Enter the request.
+This is a Scania Elevator.
+Then go to the 1st circular scan.
+See Scania circular scan.
+What do you do in this?
+Go to the 1st direction.
+0,
+3,
+7,
+17,
+36,
+50,
+65,
+18,
+19,
+59.
+This is the larger value of 50.
+You are going towards 65,
+80,
+99,
+circularly,
+reset the head before 99.
+0,
+circularly,
+99 head movement is applied.
+99-0.
+And then,
+move from that direction.
+And then,
+What do you do?
+Go to the reverse direction.
+Go back.
+Go to the 1st direction and then go to the request.
+You will feel the request.
+Go back,
+reset,
+reset,
+then go to the request.
+This is the circular scan.
+Scania's advantage is that
+it will get a good throughput.
+Low variance in response time.
+Every response time is good.
+But,
+We have just gone from where we are going.
+We are going from 50 to right.
+And the request is 49.
+And the disk is gone.
+If the request comes here,
+we have to wait for a while.
+Long waiting for the request.
+And the location is just visited by the disk.
+Where will the 0 be?
+Where will the 0 be?
+Where will the 0 be?
+In the circular scan.
+Where the last request is over,
+we have to go to 0 by reset the circular scan.
+Look and see look.
+Look and see look.
+Look and see look.
+You cannot go to 0 by corner 0 and 99.
+Where the last request is,
+we have to go in reverse direction.
+The last request is,
+you have to go to reverse direction.
+You have to go to the pallet.
+As you have gone from 50 to larger value,
+look says,
+where will you go to larger value?
+If there is no request pending,
+then go back.
+Go to pallet and start fulfilling the request in reverse direction.
+The circular look says,
+if you go from 50 to
+and
+I had seen the 17.
+Look at the difference.
+What is it?
+From 50 to larger value.
+Where will the last request be?
+From 90 to
+you will go to the scan.
+But in circular scan,
+you will go to the pallet.
+The difference is the same.
+You will fill the request in reverse direction.
+Yes.
+You will reset the circular look from 90 to
+corner.
+Where will you go?
+Because you cannot go to 0.
+You cannot go to 0.
+You will go to the first request
+of the start of reset.
+The request is there.
+You will go to reverse direction.
+You will go to 36.
+Because you have to go to the last request.
+You will go to pallet and reset.
+You will go to the first request on the corner.
+You will go to this direction.
+If we see the scan,
+how many of the head movements we have seen here?
+From 59 to
+396 to
+49.
+If you see the number of head movements,
+you will go to 59 to
+0.
+49 to
+0.
+If you go to 0.
+39 to
+0.
+36 plus
+99 plus 40.
+This question will be very easy to make.
+Why make your PYQ?
+If you have made your PYQ,
+it will be very easy to make your PYQs.
+It is very easy.
+It is very easy to make your PYQs.
+The question is,
+understand, solve it,
+Elgurdom is very easy to make.
+You will not be able to solve one or two questions.
+Understand, I have quickly decided to solve it.
+So that you can start your work from time to time.
+Now we will solve the question of MSQ tomorrow.
+2 hours and 2nd season.
+We will practice in the second session.
+3 hours and 3 hours and we will get time.
+It will be very early and evening.
+So we will meet you all from tomorrow.
+See you again with your MSQ session.
+Thank you very much.
+That is PYQs.
+You get all the minutes first and let us know it.
+See you more week.
+Thank you very much for making it so soon.
+We will talk about another of our problems.
+This is the name of this telegram group, ID is Vishwadeep sir, write the spelling
+and put it in the PDF.
+Okay, let's go.
+Thank you.
+Bye bye.

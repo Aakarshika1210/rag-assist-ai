@@ -8,10 +8,10 @@ videos/
 
 # -------------------------------
 # DATA FILES (GENERATED)
-# -------------------------------
-*.json
-*.joblib
-*.txt
+# # -------------------------------
+ *.json
+# # *.joblib
+# *.txt
 
 # BUT allow README
 !README.md
