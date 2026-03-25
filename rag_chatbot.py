@@ -2,6 +2,15 @@ import joblib
 import numpy as np
 import faiss
 import requests
+import webbrowser
+from dotenv import load_dotenv
+import os
+
+load_dotenv(dotenv_path=".env")
+API_KEY = os.getenv("OPENROUTER_API_KEY")
+
+
+VIDEO_URL = "https://www.youtube.com/watch?v=86kN-pdxsl0"
 
 # -------------------------------
 # STEP 1: Load data
@@ -41,7 +50,38 @@ def format_time(seconds):
     secs = int(seconds) % 60
     return f"{minutes}:{secs:02d}"
 
-# -------------------------------
+def open_video_at(seconds):
+    url = f"{VIDEO_URL}&t={int(seconds)}s"
+    webbrowser.open(url)
+
+
+
+
+def generate_answer(prompt):
+    response = requests.post(
+        "https://openrouter.ai/api/v1/chat/completions",
+        headers={
+            "Authorization": f"Bearer {API_KEY}",
+            "Content-Type": "application/json",
+            "HTTP-Referer": "http://localhost",
+            "X-Title": "RAG Chatbot"
+        },
+        json={
+            "model": "openai/gpt-3.5-turbo",
+            "messages": [
+                {"role": "user", "content": prompt}
+            ]
+        }
+    )
+
+    data = response.json()
+
+    # 🔥 DEBUG (temporary)
+    if "choices" not in data:
+        print("\n❌ API ERROR RESPONSE:\n", data)
+        return "Error: Failed to get response from API."
+
+    return data["choices"][0]["message"]["content"]
 # STEP 4: Chat loop
 # -------------------------------
 while True:
@@ -154,29 +194,13 @@ Question:
 Answer:
 """
 
-    # -------------------------------
-    # STEP 11: Call LLM
-    # -------------------------------
-    response = requests.post(
-        "http://localhost:11434/api/generate",
-        json={
-            "model": "phi3",
-            "prompt": prompt,
-            "stream": False
-        }
-    )
-
-    result = response.json()
+    answer = generate_answer(prompt)
 
     # -------------------------------
     # STEP 12: Print answer
     # -------------------------------
-    if "response" in result:
-        print("\n🤖 Answer:\n")
-        print(result["response"])
-    else:
-        print("\n❌ Error:")
-        print(result)
+    print("\n🤖 Answer:\n")
+    print(answer)
 
     # -------------------------------
     # STEP 13: Show timestamps
@@ -187,3 +211,13 @@ Answer:
         start = format_time(r["start"])
         end = format_time(r["end"])
         print(f"{start} - {end} → {r['text'][:80]}...")
+        
+        choice = input("Open this timestamp? (y/n): ")
+        if choice.lower() == "y":
+
+          open_video_at(r["start"])
+
+
+
+
+      

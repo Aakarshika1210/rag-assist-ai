@@ -28,7 +28,7 @@ __pycache__/
 # VIRTUAL ENV (if used later)
 # -------------------------------
 venv/
-.env/
+.env
 
 # -------------------------------
 # OS FILES
